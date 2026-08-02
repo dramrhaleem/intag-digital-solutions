@@ -1682,7 +1682,7 @@ article.card {
 .page[data-page="35"] .mockup-grid .mock.business,
 .page[data-page="35"] .mockup-grid .mock.business-back {
   grid-column: 1;
-  aspect-ratio: 1400 / 817;
+  aspect-ratio: 9 / 5;
 }
 
 .page[data-page="35"] .mockup-grid .mock.business {
@@ -1708,33 +1708,185 @@ article.card {
 }
 
 .page[data-page="36"] .social-grid {
-  grid-template-columns: 520px 416px 293px;
-  grid-template-rows: 520px;
+  grid-template-columns: 460px 368px 259px;
+  grid-template-rows: 500px;
   gap: 32px;
-  height: 520px;
+  height: 500px;
   margin-top: 24px !important;
   justify-content: center;
   align-items: center;
-  direction: rtl;
+  direction: ltr;
 }
 
 .page[data-page="36"] .social-grid .social-mock {
   width: 100%;
-  height: auto;
+  height: 500px;
   align-self: center;
   justify-self: center;
+  display: grid;
+  grid-template-rows: 460px 40px;
+  margin: 0;
+  overflow: visible;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
 }
 
-.page[data-page="36"] .social-grid .social-mock:nth-child(1) {
-  aspect-ratio: 1 / 1;
+.page[data-page="36"] .social-grid .social-mock img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  border-radius: 24px;
+  box-shadow: 0 20px 48px rgba(11, 13, 16, 0.18);
 }
 
-.page[data-page="36"] .social-grid .social-mock:nth-child(2) {
-  aspect-ratio: 4 / 5;
+.page[data-page="36"] .social-grid figcaption {
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  color: var(--slate);
+  font-family: "Poppins", Arial, sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  direction: ltr;
 }
 
-.page[data-page="36"] .social-grid .social-mock:nth-child(3) {
-  aspect-ratio: 9 / 16;
+.page[data-page="38"] .spatial-application-grid {
+  display: grid;
+  grid-template-columns: 820px 430px;
+  gap: 28px;
+  height: 590px;
+  margin-top: 26px;
+  align-items: stretch;
+  justify-content: center;
+  direction: ltr;
+}
+
+.page[data-page="38"] .rollup-office-card {
+  display: grid;
+  grid-template-rows: 547px 43px;
+  width: 820px;
+  height: 590px;
+  margin: 0;
+}
+
+.page[data-page="38"] .rollup-office-card img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 26px;
+  box-shadow: 0 24px 60px rgba(7, 27, 45, 0.22);
+}
+
+.page[data-page="38"] .rollup-office-card figcaption {
+  display: flex;
+  align-items: end;
+  color: var(--slate);
+  font-size: 17px;
+  line-height: 1.35;
+  direction: rtl;
+  text-align: right;
+}
+
+.page[data-page="38"] .spatial-spec-card {
+  display: flex;
+  flex-direction: column;
+  height: 590px;
+  padding: 34px 34px 28px;
+  border-radius: 28px;
+  background: var(--ink);
+  color: var(--mineral);
+  box-shadow: 0 20px 50px rgba(11, 13, 16, 0.15);
+  direction: rtl;
+  text-align: right;
+}
+
+.page[data-page="38"] .spatial-spec-card .micro {
+  margin: 0 0 18px;
+  color: var(--green);
+}
+
+.page[data-page="38"] .spatial-spec-card h3 {
+  margin: 0 0 16px;
+  color: var(--mineral);
+  font-size: 27px;
+  line-height: 1.35;
+}
+
+.page[data-page="38"] .spatial-spec-card .list {
+  margin: 0;
+  padding-right: 22px;
+  color: var(--aluminum);
+}
+
+.page[data-page="38"] .spatial-spec-card .list li {
+  margin-bottom: 8px;
+  color: var(--aluminum);
+  font-size: 15.5px;
+  line-height: 1.42;
+}
+
+.page[data-page="38"] .viewing-distance {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 8px 14px;
+  margin-top: 18px;
+  padding: 14px 16px 12px;
+  border: 1px solid rgba(200, 206, 209, 0.18);
+  border-radius: 16px;
+  color: var(--aluminum);
+  font-size: 13px;
+}
+
+.page[data-page="38"] .viewing-distance bdi {
+  color: var(--mineral);
+  font-family: "Poppins", Arial, sans-serif;
+  font-weight: 600;
+}
+
+.page[data-page="38"] .viewing-distance i {
+  grid-column: 1 / -1;
+  display: block;
+  height: 4px;
+  border-radius: 2px;
+  background: linear-gradient(90deg, var(--blue), var(--green));
+}
+
+.page[data-page="38"] .material-swatches {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-top: auto;
+  padding-top: 14px;
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+  direction: ltr;
+}
+
+.page[data-page="38"] .swatch {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  color: var(--aluminum);
+  font-family: "Poppins", Arial, sans-serif;
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.page[data-page="38"] .swatch i {
+  width: 32px;
+  height: 22px;
+  border-radius: 7px;
+  border: 1px solid rgba(255, 255, 255, 0.16);
+}
+
+.page[data-page="38"] .swatch.vinyl i {
+  background: linear-gradient(135deg, #071b2d, #134b82);
+}
+
+.page[data-page="38"] .swatch.metal i {
+  background: linear-gradient(135deg, #8f989e, #e2e6e8 50%, #737c83);
 }
 
 .page[data-page="37"] > .grid-2 {
