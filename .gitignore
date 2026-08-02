@@ -1,0 +1,12 @@
+/.cloned/
+/output/
+/release/
+/source/
+/templates/
+/docs/
+/tmp/
+/MANIFEST_SHA256.json
+/README_AR.md
+/package.json
+/pnpm-lock.yaml
+/requirements.txt
