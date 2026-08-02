@@ -1,0 +1,122 @@
+{
+  "reference": "C:\\Users\\amroh\\Documents\\AI Product Dev Intag\\brand\\intag\\templates\\proposal\\INTAG_Proposal_Starter_AR_v2.docx",
+  "size": 271856,
+  "sha256": "f1c4c1fab0f4d46d3d83c63f8351cc0b87a5337d95155a826f3b5538c73b25d8",
+  "parts": [
+    {
+      "part": "[Content_Types].xml",
+      "size": 2147,
+      "sha256": "214b3793e2b6ace33fa53f86367ba5dc01f3eeeac0327541a6342a9b581ddd62"
+    },
+    {
+      "part": "_rels/.rels",
+      "size": 734,
+      "sha256": "a9ae57efe9186f07d48303bcac5d54c7e359bf3f503939c03ad2954e5c59a5c4"
+    },
+    {
+      "part": "docProps/core.xml",
+      "size": 1098,
+      "sha256": "3798eaef13ac4fdb57a952e39c164d173db3404e6b7664fa12595906cf5c81e1"
+    },
+    {
+      "part": "docProps/app.xml",
+      "size": 1132,
+      "sha256": "be664981c3141cddfc59362beb287ebf20d0773660e2dd6faac5968a5930a081"
+    },
+    {
+      "part": "word/document.xml",
+      "size": 130697,
+      "sha256": "63797da7ac8eb731c0c10cb483cf207d39d07bd0a3ae90e7c11c78b624795c52"
+    },
+    {
+      "part": "word/_rels/document.xml.rels",
+      "size": 1617,
+      "sha256": "d1a8528495dfb453a3e80b49117bbe375211d2f3f12f51eede39682dc268ef5c"
+    },
+    {
+      "part": "word/styles.xml",
+      "size": 356189,
+      "sha256": "5a0b72d62883ebe3196bb6e9d8c1ddc34e646d057ecda4332c014cb71db876b6"
+    },
+    {
+      "part": "word/stylesWithEffects.xml",
+      "size": 438131,
+      "sha256": "463ae0928cf0d84775dbf8cf18d6c3029f6707c81bf590f6d6dd8757a5e93f15"
+    },
+    {
+      "part": "word/settings.xml",
+      "size": 2535,
+      "sha256": "51a0d348fe85965c66e4748a03c3c0d055d78455514f03cb121c334af7d73689"
+    },
+    {
+      "part": "word/webSettings.xml",
+      "size": 438,
+      "sha256": "349d36de7434d09f86987ff671d8814964a0588c1e630c06e562cda7e75e9f95"
+    },
+    {
+      "part": "word/fontTable.xml",
+      "size": 3125,
+      "sha256": "9babaf641426219e61614ce207814cba9c19d35bcfb5cb0867edd6e3046b364e"
+    },
+    {
+      "part": "word/theme/theme1.xml",
+      "size": 10939,
+      "sha256": "e3a8ab7db9ca7afca56f5f2820a56e8b660016c647773555b060b0a02ac76941"
+    },
+    {
+      "part": "customXml/item1.xml",
+      "size": 262,
+      "sha256": "a86086ffc5d8e83ebd6c71a55d1d2efaa31b137977f5f3a752366e1023612144"
+    },
+    {
+      "part": "customXml/_rels/item1.xml.rels",
+      "size": 295,
+      "sha256": "1ca6c9a64edcebe24ee703a54403611b322d96da33371779e742d2d3f7ed7a6c"
+    },
+    {
+      "part": "customXml/itemProps1.xml",
+      "size": 354,
+      "sha256": "c542307b13ec29a8b546217bb37936ab4822e044b265d2952985ec3d6afed24e"
+    },
+    {
+      "part": "word/numbering.xml",
+      "size": 6478,
+      "sha256": "cbb6d75efa947a72bf1a0916c50560b3441aa17ee2eb222b6bc6085d1cbeca6a"
+    },
+    {
+      "part": "word/header1.xml",
+      "size": 2287,
+      "sha256": "7d5d3e6eb4e954d89f0bd3645d2f36e403ed692c5f035e3e940ed4fd19e9d8d5"
+    },
+    {
+      "part": "word/footer1.xml",
+      "size": 3100,
+      "sha256": "01d77757efc56fe5373176ae897173e467793619d02f5ec63eb5c9e483e046e1"
+    },
+    {
+      "part": "word/media/image1.png",
+      "size": 18852,
+      "sha256": "a0ce1020693a69e295a8e2816f288d9054bb930f1f37dcd96055d49223b59d02"
+    },
+    {
+      "part": "docProps/thumbnail.jpeg",
+      "size": 8324,
+      "sha256": "96367138dc44ce09bf2c8f0f8e49348a1478d2c5c0af69bbc2bbc38b63cdcead"
+    },
+    {
+      "part": "word/fonts/IBMPlexSansArabic-Regular.odttf",
+      "size": 235924,
+      "sha256": "faa9eb4b9e48c5762fb0edf2fda4df482b2998803f43100f2161634d821c4a49"
+    },
+    {
+      "part": "word/fonts/IBMPlexSansArabic-Bold.odttf",
+      "size": 246992,
+      "sha256": "c196b02198132a25d2fde972b13937c2e7dbc8cb36b1b3205cea1c4c22c7cdbe"
+    },
+    {
+      "part": "word/_rels/fontTable.xml.rels",
+      "size": 488,
+      "sha256": "2f71b04c582eaffa211b3c8017a20b072dadbf1cd80a05ae4dfd7a92afdfecc1"
+    }
+  ]
+}

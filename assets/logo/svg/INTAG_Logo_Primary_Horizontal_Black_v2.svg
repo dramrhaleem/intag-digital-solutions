@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="548" height="180" viewBox="0 0 548 180" role="img" aria-labelledby="title desc">
+  <title id="title">INTAG_Logo_Primary_Horizontal_Black_v2</title>
+  <desc id="desc">INTAG brand system v2.0. Logo 02 Connected Frame is approved; other identity decisions remain working unless stated.</desc>
+  
+  <g transform="translate(24 26) scale(1.000000)">
+      
+      <path d="M20 84V28H72" fill="none" stroke="#0B0D10" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M108 44V100H56" fill="none" stroke="#0B0D10" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="64" cy="64" r="14" fill="#0B0D10"/>
+    </g>
+<path d="M252 705V0H56V705Z" fill="#0B0D10" transform="translate(180.000 121.000) scale(0.110014 -0.110014)"/>
+<path d="M709 0H513L252 394V0H56V705H252L513 306V705H709Z" fill="#0B0D10" transform="translate(212.564 121.000) scale(0.110014 -0.110014)"/>
+<path d="M587 705V549H399V0H203V549H17V705Z" fill="#0B0D10" transform="translate(292.654 121.000) scale(0.110014 -0.110014)"/>
+<path d="M502 115H252L214 0H8L265 705H491L747 0H540ZM453 265 377 493 302 265Z" fill="#0B0D10" transform="translate(351.732 121.000) scale(0.110014 -0.110014)"/>
+<path d="M506 473Q489 501 459.5 516.0Q430 531 390 531Q316 531 273.5 483.0Q231 435 231 354Q231 263 276.5 215.5Q322 168 409 168Q512 168 556 261H359V402H725V212Q702 156 657.5 107.0Q613 58 545.0 26.5Q477 -5 390 -5Q284 -5 202.5 40.5Q121 86 76.5 167.5Q32 249 32 354Q32 458 76.5 539.5Q121 621 202.0 666.5Q283 712 389 712Q522 712 609.0 648.0Q696 584 717 473Z" fill="#0B0D10" transform="translate(431.272 121.000) scale(0.110014 -0.110014)"/>
+</svg>

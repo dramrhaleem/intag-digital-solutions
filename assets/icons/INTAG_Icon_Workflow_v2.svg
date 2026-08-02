@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="title desc">
+  <title id="title">INTAG Workflow icon</title>
+  <desc id="desc">INTAG brand system v2.0. Logo 02 Connected Frame is approved; other identity decisions remain working unless stated.</desc>
+  
+  <style>.node{fill:#2AB687;stroke:none}</style><g fill="none" stroke="#0B0D10" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 6h7v6h7v6"/><path d="M5 18h7v-6"/><circle cx="5" cy="6" r="2.2" class="node"/><circle cx="19" cy="18" r="2.2" class="node"/></g>
+</svg>

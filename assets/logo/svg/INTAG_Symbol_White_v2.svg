@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">INTAG Connected Frame symbol - white</title>
+  <desc id="desc">INTAG brand system v2.0. Logo 02 Connected Frame is approved; other identity decisions remain working unless stated.</desc>
+  
+  <g transform="translate(0 0) scale(1.000000)">
+      
+      <path d="M20 84V28H72" fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M108 44V100H56" fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="64" cy="64" r="14" fill="#FFFFFF"/>
+    </g>
+</svg>

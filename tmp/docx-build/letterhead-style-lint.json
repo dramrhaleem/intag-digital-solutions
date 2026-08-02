@@ -1,0 +1,105 @@
+{
+  "input": "C:\\Users\\amroh\\Documents\\AI Product Dev Intag\\brand\\intag\\templates\\stationery\\INTAG_Letterhead_Template_v1.docx",
+  "fonts_by_char_count": {
+    "Poppins": 631
+  },
+  "direct_run_formatting_runs": 26,
+  "direct_paragraph_formatting_paragraphs": 20,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 2,
+      "text": "[DATE]\t[REFERENCE / VERSION]",
+      "style": "INTAG Meta"
+    },
+    {
+      "para_index": 3,
+      "text": "[RECIPIENT NAME]",
+      "style": "Normal"
+    },
+    {
+      "para_index": 9,
+      "text": "SUBJECT  [SUBJECT]",
+      "style": "Normal"
+    },
+    {
+      "para_index": 13,
+      "text": "[NAME SURNAME]",
+      "style": "Normal"
+    },
+    {
+      "para_index": 15,
+      "text": "INTAG Digital Solutions",
+      "style": "Normal"
+    },
+    {
+      "para_index": 19,
+      "text": "\tDIGITAL SOLUTIONS / WORKING",
+      "style": "Normal"
+    },
+    {
+      "para_index": 20,
+      "text": "INTAG CORRESPONDENCE\tWORKING TEMPLATE\tPAGE 1 / 1",
+      "style": "Normal"
+    }
+  ],
+  "examples": {
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 1,
+        "text": "CORRESPONDENCE",
+        "style": "INTAG Kicker"
+      },
+      {
+        "para_index": 2,
+        "text": "[DATE]\t[REFERENCE / VERSION]",
+        "style": "INTAG Meta"
+      },
+      {
+        "para_index": 3,
+        "text": "[RECIPIENT NAME]",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "text": "[TITLE]",
+        "style": "Normal"
+      },
+      {
+        "para_index": 5,
+        "text": "[ORGANISATION]",
+        "style": "Normal"
+      }
+    ],
+    "direct_run_formatting": [
+      {
+        "para_index": 2,
+        "run_text": "[DATE]",
+        "style": "INTAG Meta"
+      },
+      {
+        "para_index": 2,
+        "run_text": "\t[REFERENCE / VERSION]",
+        "style": "INTAG Meta"
+      },
+      {
+        "para_index": 3,
+        "run_text": "[RECIPIENT NAME]",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "run_text": "[TITLE]",
+        "style": "Normal"
+      },
+      {
+        "para_index": 5,
+        "run_text": "[ORGANISATION]",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}

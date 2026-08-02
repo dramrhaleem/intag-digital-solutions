@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="420" viewBox="0 0 1160 420" role="img" aria-labelledby="title desc">
+  <title id="title">INTAG logo concept comparison</title>
+  <desc id="desc">INTAG working brand system v1.0. Vector artwork.</desc>
+  <rect width="1160" height="420" fill="#F4F1E9"/>
+  
+      <rect x="40" y="40" width="340" height="340" rx="24" fill="#FFFFFF"/>
+      <rect x="410" y="40" width="340" height="340" rx="24" fill="#FFFFFF"/>
+      <rect x="780" y="40" width="340" height="340" rx="24" fill="#FFFFFF"/>
+      <g transform="translate(130 88) scale(1.250000)">
+      
+      <path d="M18 96H64V64" fill="none" stroke="#2369B1" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M64 64V32H110" fill="none" stroke="#2AB687" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="64" cy="64" r="14" fill="#0B0D10"/>
+    </g><g transform="translate(500 88) scale(1.250000)">
+      <path d="M20 84V28H72" fill="none" stroke="#2369B1" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M108 44V100H56" fill="none" stroke="#2AB687" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="64" cy="64" r="14" fill="#0B0D10"/>
+    </g><g transform="translate(870 88) scale(1.250000)">
+      <path d="M18 92L54 64L18 36" fill="none" stroke="#2369B1" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M110 36L74 64L110 92" fill="none" stroke="#2AB687" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="64" cy="64" r="14" fill="#0B0D10"/>
+    </g>
+      <text x="210" y="318" fill="#0B0D10" font-family="Poppins, Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="1.2" text-anchor="middle">PRODUCTION POINT</text>
+      <text x="580" y="318" fill="#0B0D10" font-family="Poppins, Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="1.2" text-anchor="middle">CONNECTED FRAME</text>
+      <text x="950" y="318" fill="#0B0D10" font-family="Poppins, Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="1.2" text-anchor="middle">SIGNAL FOLD</text>
+      <circle cx="66" cy="66" r="8" fill="#2AB687"/>
+      <text x="210" y="352" fill="#087058" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">RECOMMENDED</text>
+      <text x="580" y="352" fill="#50616F" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">ALTERNATE</text>
+      <text x="950" y="352" fill="#50616F" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">ALTERNATE</text>
+    
+</svg>

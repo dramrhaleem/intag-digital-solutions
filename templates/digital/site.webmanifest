@@ -1,0 +1,35 @@
+{
+  "name": "INTAG Digital Solutions",
+  "short_name": "INTAG",
+  "description": "INTAG Digital Solutions brand app icon manifest — v2.0, Logo 02 Connected Frame approved",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4F1E9",
+  "theme_color": "#0B0D10",
+  "icons": [
+    {
+      "src": "../../assets/logo/png/INTAG_AppIcon_RGB_v1_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "../../assets/logo/png/INTAG_AppIcon_RGB_v1_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "../../assets/logo/png/INTAG_AppIcon_Maskable_RGB_v1_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "../../assets/logo/png/INTAG_AppIcon_Maskable_RGB_v1_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+INTAG Presentation Starter v1 — QA ledger
+Date: 2026-08-02
+
+Build
+- Implemented from scratch with @oai/artifact-tool 2.8.31 in a JavaScript ES module.
+- Final output: brand/intag/templates/presentation/INTAG_Presentation_Starter_v1.pptx
+- Slide size: 1280 x 720, 16:9.
+- Slide count: 7.
+
+Editable structure
+- PowerPoint COM opened the final PPTX read-only without repair prompts.
+- Slide 6 contains one native PowerPoint chart.
+- Native chart series: 2.
+- Native chart categories: 4.
+- All slide text XML includes Poppins typeface declarations.
+- Notes pages: 7 of 7.
+
+Visual QA
+- Every slide was rendered after final PPTX export through artifact-tool import rendering at 1920 x 1080.
+- Every final slide was inspected individually at full size.
+- Every slide was also exported by installed Microsoft PowerPoint at 1920 x 1080 and inspected individually at full size.
+- No clipping, unexpected wrapping, broken images, broken chart rendering, or footer inconsistency observed.
+
+Overflow QA
+- The unmodified presentations/container_tools/slides_test.py was executed first.
+- artifact-tool completed all seven renders but the Windows native canvas process returned 0xC0000409 during teardown, so the stock helper treated the successful render as a failure.
+- A scratch-only compatibility copy accepted the already-materialized JSON/render paths for that exact teardown condition and preserved the same slides_test algorithm.
+- Result: Test passed. No overflow detected.
+
+Claim and source QA
+- No external claims, benchmarks, quotations, stock imagery, or third-party data are used.
+- Illustrative chart data is explicitly labelled as non-forecast, non-benchmark, and non-client data.
+- Proposed capability architecture is explicitly labelled Working / Proposed and non-commercial.
+- Every slide contains a [Sources] block in speaker notes.
+- All intentional visible placeholders are registered in source-notes.txt.
+

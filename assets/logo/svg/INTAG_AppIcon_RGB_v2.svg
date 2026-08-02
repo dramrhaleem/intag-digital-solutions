@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">INTAG app icon</title>
+  <desc id="desc">INTAG brand system v2.0. Logo 02 Connected Frame is approved; other identity decisions remain working unless stated.</desc>
+  
+  <rect x="32" y="32" width="448" height="448" rx="112" fill="#0B0D10"/><g transform="translate(128 128) scale(2.000000)">
+      
+      <path d="M20 84V28H72" fill="none" stroke="#2369B1" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M108 44V100H56" fill="none" stroke="#2AB687" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="64" cy="64" r="14" fill="#F4F1E9"/>
+    </g>
+</svg>

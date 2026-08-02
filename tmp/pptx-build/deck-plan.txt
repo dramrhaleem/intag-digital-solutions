@@ -1,0 +1,12 @@
+Visual route: explicit custom visual direction; no bundled template used.
+Canvas: 1280 x 720 (16:9).
+System: Mineral / Ink / Blue / Green, Poppins, editorial spacing, flat compositions.
+
+01 Cover — minimal title and key visual.
+02 Section divider — dark field with production-path pattern.
+03 Answer-first — one answer, one evidence point, one decision.
+04 Image + insight — icon-system visual paired with a concise interpretation.
+05 Proposed capability architecture — four editable capability nodes on one rail.
+06 Illustrative chart — native editable chart with explicit non-claim disclaimer.
+07 Closing — resolve the opening with a next decision, owner, action, and date.
+

@@ -1,0 +1,25 @@
+{
+  "status": "pass",
+  "target": "C:/Users/amroh/Documents/AI Product Dev Intag/brand/intag/templates/proposal/INTAG_Proposal_Starter_EN_v2.docx",
+  "target_sha256": "d3c0c36d7d77f0b83c4e13b638f23f7b2568980234decc27e92ee1ffc28744e5",
+  "retained_reference": "C:/Users/amroh/Documents/AI Product Dev Intag/brand/intag/templates/proposal/INTAG_Proposal_Starter_AR_v2.docx",
+  "retained_reference_sha256": "f1c4c1fab0f4d46d3d83c63f8351cc0b87a5337d95155a826f3b5538c73b25d8",
+  "arabic_letterhead_sha256": "a4e57f1411e6f5a9e8f4d48d7d0288e41e8fdb1e088b4316a00c26466fa511a7",
+  "target_package_parts": 25,
+  "common_parts_compared": 21,
+  "preserved_unmodified_common_parts": 9,
+  "unexpected_changed_parts": [],
+  "added_parts": [
+    "word/header2.xml",
+    "word/footer2.xml",
+    "word/fonts/Poppins-Regular.odttf",
+    "word/fonts/Poppins-Bold.odttf"
+  ],
+  "removed_reference_only_parts": [
+    "word/fonts/IBMPlexSansArabic-Regular.odttf",
+    "word/fonts/IBMPlexSansArabic-Bold.odttf"
+  ],
+  "approved_logo_02_media_payload_preserved": true,
+  "reference_document_unchanged": true,
+  "arabic_letterhead_unchanged": true
+}

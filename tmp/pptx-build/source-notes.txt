@@ -1,0 +1,60 @@
+INTAG Presentation Starter v1 — source and placeholder register
+Build date: 2026-08-02
+Status: Working / Proposed. Requires Brand Owner approval.
+
+Communication job
+By the end, an INTAG presenter should be able to replace a small set of clear placeholders and produce a coherent, outcome-led deck without inventing claims.
+
+Internal brand sources
+- Brand palette and typography: brand/intag/assets/tokens/INTAG_DesignTokens_v1.json
+- Working strategy and proposed capability architecture: brand/intag/docs/BRAND_STRATEGY_WORKING_AR.md
+- Primary logo: brand/intag/assets/logo/png/INTAG_Logo_Primary_Horizontal_RGB_v1_1280w.png
+- Reverse logo: brand/intag/assets/logo/png/INTAG_Logo_Primary_Horizontal_Reverse_RGB_v1_1280w.png
+- Color symbol: brand/intag/assets/logo/png/INTAG_Symbol_Color_RGB_v1_512.png
+- Reverse symbol: brand/intag/assets/logo/png/INTAG_Symbol_Reverse_RGB_v1_512.png
+- Key visual: brand/intag/assets/key-visual/INTAG_KeyVisual_Hero_1600x900_v1.png
+- Production-path pattern preview: brand/intag/output/previews/INTAG_Pattern_ProductionGrid_Light_v1.png
+- Icon-library preview: brand/intag/output/previews/INTAG_IconLibrary_ContactSheet_v1.png
+
+External sources
+- None. No external claims, benchmarks, quotations, or stock imagery are used.
+
+Illustrative chart
+- Categories and values are authored placeholder data for the editable starter only.
+- They are not a forecast, benchmark, research result, or client result.
+- Replace the categories, values, interpretation, and source line before audience use.
+
+Capability architecture
+- Strategy & Business / Brand & Media / Technology & AI / Growth & Activation is a Working proposal derived from the identity system.
+- It is not an approved offer map until Brand Owner approval.
+
+Intentional visible placeholders
+- [DECK TYPE]
+- [DATE]
+- [Presentation title]
+- [One clear outcome-led subtitle]
+- [Section title]
+- [Section context]
+- [One clear answer in one sentence]
+- [00%]
+- [Evidence label]
+- [Supporting evidence or implication]
+- [Owner / action / date]
+- [Insight-led title]
+- [Insight statement]
+- [Context or evidence statement]
+- [Source / method / date]
+- [Name the outcome this system must produce]
+- [What changed]
+- [Why it matters]
+- [Next decision]
+- [One sentence that resolves the opening]
+- [Owner]
+- [Action]
+- [email]
+- [website]
+
+Font note
+- All authored presentation text is specified as Poppins.
+- Poppins font files and OFL license are included under brand/intag/assets/fonts/Poppins/.
+

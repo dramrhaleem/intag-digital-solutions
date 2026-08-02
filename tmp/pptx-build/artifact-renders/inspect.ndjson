@@ -1,0 +1,108 @@
+{"kind":"slide","id":"sl/nc2klk","slide":1,"title":"[DECK TYPE]  ·  [DATE]","textShapes":5}
+{"kind":"shape","id":"sh/ytkn2dsf","slide":1,"name":"cover-green-rail","bbox":[732,0,18,720]}
+{"kind":"textbox","id":"sh/8zm58nah","slide":1,"name":"label--deck-type-date-","text":"[DECK TYPE]  ·  [DATE]","textPreview":"[DECK TYPE]  ·  [DATE]","textChars":22,"textLines":1,"bbox":[64,198,520,28]}
+{"kind":"textbox","id":"sh/t0vm1sr2","slide":1,"name":"cover-title","text":"[Presentation title]","textPreview":"[Presentation title]","textChars":20,"textLines":1,"bbox":[64,246,620,158]}
+{"kind":"textbox","id":"sh/6x4n6dsb","slide":1,"name":"cover-subtitle","text":"[One clear outcome-led subtitle]","textPreview":"[One clear outcome-led subtitle]","textChars":32,"textLines":1,"bbox":[64,430,590,84]}
+{"kind":"shape","id":"sh/7yd4zitw","slide":1,"name":"cover-blue-rule","bbox":[64,566,118,0]}
+{"kind":"textbox","id":"sh/o3ilwjad","slide":1,"name":"cover-brand-name","text":"INTAG DIGITAL SOLUTIONS","textPreview":"INTAG DIGITAL SOLUTIONS","textChars":23,"textLines":1,"bbox":[64,596,300,26]}
+{"kind":"textbox","id":"sh/94rmpobi","slide":1,"name":"cover-status","text":"Working template · Replace all bracketed fields before use","textPreview":"Working template · Replace all bracketed fields before use","textChars":58,"textLines":1,"bbox":[64,630,600,24]}
+{"kind":"image","id":"im/0j6povul","slide":1,"name":"","alt":"INTAG blue and green production-path key visual","bbox":[750,0,530,720]}
+{"kind":"image","id":"im/yho7mlcf","slide":1,"name":"","alt":"INTAG primary logo","bbox":[64,48,225,84]}
+{"kind":"notes","id":"nt/nc2klk","slide":1,"text":"[Sources]\n- Internal asset: assets/logo/png/INTAG_Logo_Primary_Horizontal_RGB_v1_1280w.png\n- Internal asset: assets/key-visual/INTAG_KeyVisual_Hero_1600x900_v1.png\n- No external claims."}
+{"kind":"slide","id":"sl/zs52xk","slide":2,"title":"01","textShapes":5}
+{"kind":"shape","id":"sh/yh03id07","slide":2,"name":"section-blue-rail","bbox":[680,0,24,720]}
+{"kind":"textbox","id":"sh/ji94bi1c","slide":2,"name":"section-number","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[64,70,190,120]}
+{"kind":"textbox","id":"sh/872lo7i9","slide":2,"name":"label-section-divider","text":"SECTION DIVIDER","textPreview":"SECTION DIVIDER","textChars":15,"textLines":1,"bbox":[64,214,360,28]}
+{"kind":"textbox","id":"sh/t8bmhsju","slide":2,"name":"section-title","text":"[Section title]","textPreview":"[Section title]","textChars":15,"textLines":1,"bbox":[64,270,548,150]}
+{"kind":"textbox","id":"sh/6lk3mx03","slide":2,"name":"section-context","text":"[Section context]","textPreview":"[Section context]","textChars":17,"textLines":1,"bbox":[64,450,520,100]}
+{"kind":"textbox","id":"sh/orylc3ip","slide":2,"name":"footer-2","text":"INTAG Digital Solutions  /  Working template  /  02","textPreview":"INTAG Digital Solutions  /  Working template  /  02","textChars":51,"textLines":1,"bbox":[64,682,760,22]}
+{"kind":"shape","id":"sh/pc7m58ja","slide":2,"name":"footer-accent-2","bbox":[1176,683,40,4]}
+{"kind":"image","id":"im/kvq1kzyt","slide":2,"name":"","alt":"INTAG production-path pattern","bbox":[704,0,576,720]}
+{"kind":"image","id":"im/6xsjm9gz","slide":2,"name":"","alt":"INTAG reverse logo","bbox":[64,594,210,78]}
+{"kind":"notes","id":"nt/zs52xk","slide":2,"text":"[Sources]\n- Internal asset: output/previews/INTAG_Pattern_ProductionGrid_Light_v1.png\n- Internal asset: assets/logo/png/INTAG_Logo_Primary_Horizontal_Reverse_RGB_v1_1280w.png\n- No external claims."}
+{"kind":"slide","id":"sl/umg8df","slide":3,"title":"ANSWER FIRST","textShapes":9}
+{"kind":"textbox","id":"sh/7uhwz2d4","slide":3,"name":"label-answer-first","text":"ANSWER FIRST","textPreview":"ANSWER FIRST","textChars":12,"textLines":1,"bbox":[64,48,300,28]}
+{"kind":"textbox","id":"sh/twje1cva","slide":3,"name":"answer-title","text":"[One clear answer in one sentence]","textPreview":"[One clear answer in one sentence]","textChars":34,"textLines":1,"bbox":[64,104,1050,110]}
+{"kind":"shape","id":"sh/ip8fmxcn","slide":3,"name":"answer-divider","bbox":[64,238,1152,0]}
+{"kind":"textbox","id":"sh/jqhwv2d8","slide":3,"name":"answer-evidence-number","text":"[00%]","textPreview":"[00%]","textChars":5,"textLines":1,"bbox":[64,292,382,110]}
+{"kind":"textbox","id":"sh/krqxo7ut","slide":3,"name":"answer-evidence-label","text":"[Evidence label]","textPreview":"[Evidence label]","textChars":16,"textLines":1,"bbox":[68,416,390,72]}
+{"kind":"shape","id":"sh/5szexcve","slide":3,"name":"answer-green-rule","bbox":[490,280,0,298]}
+{"kind":"textbox","id":"sh/a1ovidcr","slide":3,"name":"label-what-it-means","text":"WHAT IT MEANS","textPreview":"WHAT IT MEANS","textChars":13,"textLines":1,"bbox":[536,288,360,28]}
+{"kind":"textbox","id":"sh/v2xwridc","slide":3,"name":"answer-implication","text":"[Supporting evidence or implication]","textPreview":"[Supporting evidence or implication]","textChars":36,"textLines":1,"bbox":[536,330,650,114]}
+{"kind":"textbox","id":"sh/ru10vatk","slide":3,"name":"label-next-decision","text":"NEXT DECISION","textPreview":"NEXT DECISION","textChars":13,"textLines":1,"bbox":[536,480,360,28]}
+{"kind":"textbox","id":"sh/6tszm5cz","slide":3,"name":"answer-next-decision","text":"[Owner / action / date]","textPreview":"[Owner / action / date]","textChars":23,"textLines":1,"bbox":[536,522,650,66]}
+{"kind":"textbox","id":"sh/tg3ix0bq","slide":3,"name":"footer-3","text":"INTAG Digital Solutions  /  Working template  /  03","textPreview":"INTAG Digital Solutions  /  Working template  /  03","textChars":51,"textLines":1,"bbox":[64,682,760,22]}
+{"kind":"shape","id":"sh/sfuhofa5","slide":3,"name":"footer-accent-3","bbox":[1176,683,40,4]}
+{"kind":"image","id":"im/5kfa5w7y","slide":3,"name":"","alt":"INTAG color symbol","bbox":[1160,42,58,58]}
+{"kind":"notes","id":"nt/umg8df","slide":3,"text":"[Sources]\n- Internal asset: assets/logo/png/INTAG_Symbol_Color_RGB_v1_512.png\n- All visible bracketed content is an intentional template placeholder.\n- No external claims."}
+{"kind":"slide","id":"sl/8w27hl","slide":4,"title":"IMAGE + INSIGHT","textShapes":6}
+{"kind":"textbox","id":"sh/jqh47a9c","slide":4,"name":"label-image-insight","text":"IMAGE + INSIGHT","textPreview":"IMAGE + INSIGHT","textChars":15,"textLines":1,"bbox":[646,56,420,28]}
+{"kind":"textbox","id":"sh/ip8ny5s7","slide":4,"name":"image-insight-title","text":"[Insight-led title]","textPreview":"[Insight-led title]","textChars":19,"textLines":1,"bbox":[646,104,570,104]}
+{"kind":"shape","id":"sh/h4zm50rm","slide":4,"name":"image-insight-rule","bbox":[646,232,96,0]}
+{"kind":"textbox","id":"sh/w365wva1","slide":4,"name":"image-insight-statement","text":"[Insight statement]","textPreview":"[Insight statement]","textChars":19,"textLines":1,"bbox":[646,278,570,118]}
+{"kind":"textbox","id":"sh/v2x43a9g","slide":4,"name":"image-insight-context","text":"[Context or evidence statement]","textPreview":"[Context or evidence statement]","textChars":31,"textLines":1,"bbox":[646,424,540,96]}
+{"kind":"shape","id":"sh/u1onu5sv","slide":4,"name":"image-source-divider","bbox":[646,556,540,0]}
+{"kind":"textbox","id":"sh/90fm10ra","slide":4,"name":"image-source-line","text":"[Source / method / date]","textPreview":"[Source / method / date]","textChars":24,"textLines":1,"bbox":[646,574,540,34]}
+{"kind":"textbox","id":"sh/8z65svap","slide":4,"name":"footer-4","text":"INTAG Digital Solutions  /  Working template  /  04","textPreview":"INTAG Digital Solutions  /  Working template  /  04","textChars":51,"textLines":1,"bbox":[64,682,760,22]}
+{"kind":"shape","id":"sh/qxo3ex0r","slide":4,"name":"footer-accent-4","bbox":[1176,683,40,4]}
+{"kind":"image","id":"im/p8vq5cn6","slide":4,"name":"","geometry":"roundRect","alt":"INTAG icon library contact sheet","bbox":[64,168,532,333]}
+{"kind":"notes","id":"nt/8w27hl","slide":4,"text":"[Sources]\n- Internal asset: output/previews/INTAG_IconLibrary_ContactSheet_v1.png\n- Replace the image and the [Source / method / date] line when presenting evidence.\n- No external claims."}
+{"kind":"slide","id":"sl/og6btc","slide":5,"title":"PROPOSED CAPABILITY ARCHITECTURE","textShapes":17}
+{"kind":"textbox","id":"sh/jutwfe5w","slide":5,"name":"label-proposed-capability-architecture","text":"PROPOSED CAPABILITY ARCHITECTURE","textPreview":"PROPOSED CAPABILITY ARCHITECTURE","textChars":32,"textLines":1,"bbox":[64,44,560,28]}
+{"kind":"textbox","id":"sh/kvmdojmh","slide":5,"name":"capability-title","text":"[Name the outcome this system must produce]","textPreview":"[Name the outcome this system must produce]","textChars":43,"textLines":1,"bbox":[64,92,1000,94]}
+{"kind":"textbox","id":"sh/lwvehon2","slide":5,"name":"capability-status","text":"Working proposal — validate against the approved offer scope.","textPreview":"Working proposal — validate against the approved offer scope.","textChars":61,"textLines":1,"bbox":[64,190,760,32]}
+{"kind":"shape","id":"sh/6x4vqt47","slide":5,"name":"capability-rail","bbox":[154,344,942,0]}
+{"kind":"shape","id":"sh/7ydwjy5s","slide":5,"name":"capability-blue-rail","bbox":[154,344,314,0]}
+{"kind":"shape","id":"sh/8zmxs3md","slide":5,"name":"capability-green-rail","bbox":[782,344,314,0]}
+{"kind":"shape","id":"sh/t0velony","slide":5,"name":"capability-node-01","bbox":[118,308,72,72]}
+{"kind":"textbox","id":"sh/m10vepo3","slide":5,"name":"capability-node-number-01","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[118,326,72,32]}
+{"kind":"textbox","id":"sh/n29w7u5o","slide":5,"name":"capability-title-01","text":"Strategy & Business","textPreview":"Strategy & Business","textChars":19,"textLines":1,"bbox":[30,410,248,62]}
+{"kind":"textbox","id":"sh/zq9orqtk","slide":5,"name":"capability-verb-01","text":"Frame the decision","textPreview":"Frame the decision","textChars":18,"textLines":1,"bbox":[34,482,240,58]}
+{"kind":"shape","id":"sh/ep0nylsz","slide":5,"name":"capability-node-02","bbox":[432,308,72,72]}
+{"kind":"textbox","id":"sh/1sr6t0bq","slide":5,"name":"capability-node-number-02","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[432,326,72,32]}
+{"kind":"textbox","id":"sh/0ri50va5","slide":5,"name":"capability-title-02","text":"Brand & Media","textPreview":"Brand & Media","textChars":13,"textLines":1,"bbox":[344,410,248,62]}
+{"kind":"textbox","id":"sh/rmponqto","slide":5,"name":"capability-verb-02","text":"Make value legible","textPreview":"Make value legible","textChars":18,"textLines":1,"bbox":[348,482,240,58]}
+{"kind":"shape","id":"sh/qlgnuls3","slide":5,"name":"capability-node-03","bbox":[746,308,72,72]}
+{"kind":"textbox","id":"sh/do76p0be","slide":5,"name":"capability-node-number-03","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[746,326,72,32]}
+{"kind":"textbox","id":"sh/cny5wva9","slide":5,"name":"capability-title-03","text":"Technology & AI","textPreview":"Technology & AI","textChars":15,"textLines":1,"bbox":[658,410,248,62]}
+{"kind":"textbox","id":"sh/3ypoj6tc","slide":5,"name":"capability-verb-03","text":"Build the capability","textPreview":"Build the capability","textChars":20,"textLines":1,"bbox":[662,482,240,58]}
+{"kind":"shape","id":"sh/2xgnq1sr","slide":5,"name":"capability-node-04","bbox":[1060,308,72,72]}
+{"kind":"textbox","id":"sh/6tw721wz","slide":5,"name":"capability-node-number-04","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1060,326,72,32]}
+{"kind":"textbox","id":"sh/7u5ov6d4","slide":5,"name":"capability-title-04","text":"Growth & Activation","textPreview":"Growth & Activation","textChars":19,"textLines":1,"bbox":[972,410,248,62]}
+{"kind":"textbox","id":"sh/svep4bep","slide":5,"name":"capability-verb-04","text":"Activate and learn","textPreview":"Activate and learn","textChars":18,"textLines":1,"bbox":[976,482,240,58]}
+{"kind":"textbox","id":"sh/twn6xgva","slide":5,"name":"capability-disclaimer","text":"PROPOSED — not an approved service, scope, or commercial commitment.","textPreview":"PROPOSED — not an approved service, scope, or commercial commitment.","textChars":68,"textLines":1,"bbox":[64,620,900,30]}
+{"kind":"textbox","id":"sh/fypozqdg","slide":5,"name":"footer-5","text":"INTAG Digital Solutions  /  Working template  /  05","textPreview":"INTAG Digital Solutions  /  Working template  /  05","textChars":51,"textLines":1,"bbox":[64,682,760,22]}
+{"kind":"shape","id":"sh/gzyp8be1","slide":5,"name":"footer-accent-5","bbox":[1176,683,40,4]}
+{"kind":"image","id":"im/twbydgnq","slide":5,"name":"","alt":"INTAG reverse symbol","bbox":[1148,50,70,70]}
+{"kind":"notes","id":"nt/og6btc","slide":5,"text":"[Sources]\n- Internal working source: docs/BRAND_STRATEGY_WORKING_AR.md\n- Proposed architecture: Strategy & Business / Brand & Media / Technology & AI / Growth & Activation.\n- This is not an approved offer map or commercial commitment."}
+{"kind":"slide","id":"sl/lbwb5o","slide":6,"title":"EDITABLE ILLUSTRATIVE CHART","textShapes":9}
+{"kind":"textbox","id":"sh/vilonmdo","slide":6,"name":"label-editable-illustrative-chart","text":"EDITABLE ILLUSTRATIVE CHART","textPreview":"EDITABLE ILLUSTRATIVE CHART","textChars":27,"textLines":1,"bbox":[64,46,520,28]}
+{"kind":"textbox","id":"sh/gjupwrut","slide":6,"name":"chart-title","text":"Illustrative scenario — replace with validated data","textPreview":"Illustrative scenario — replace with validated data","textChars":51,"textLines":1,"bbox":[64,90,1050,64]}
+{"kind":"textbox","id":"sh/h436pwve","slide":6,"name":"chart-subtitle","text":"Use the chart to show direction, then state what the evidence does—and does not—support.","textPreview":"Use the chart to show direction, then state what the evidence does—and does not—support.","textChars":88,"textLines":1,"bbox":[64,158,1020,44]}
+{"kind":"shape","id":"sh/7e1ojmdc","slide":6,"name":"chart-readout-rule","bbox":[956,230,0,338]}
+{"kind":"textbox","id":"sh/8fapsrex","slide":6,"name":"label-readout","text":"READOUT","textPreview":"READOUT","textChars":7,"textLines":1,"bbox":[990,236,220,28]}
+{"kind":"textbox","id":"sh/tg36lwvi","slide":6,"name":"chart-change","text":"[What changed]","textPreview":"[What changed]","textChars":14,"textLines":1,"bbox":[990,280,226,82]}
+{"kind":"textbox","id":"sh/q9w72lcb","slide":6,"name":"label-implication","text":"IMPLICATION","textPreview":"IMPLICATION","textChars":11,"textLines":1,"bbox":[990,392,220,28]}
+{"kind":"textbox","id":"sh/ra58v6dg","slide":6,"name":"chart-implication","text":"[Why it matters]","textPreview":"[Why it matters]","textChars":16,"textLines":1,"bbox":[990,436,226,98]}
+{"kind":"textbox","id":"sh/7u5obahg","slide":6,"name":"chart-disclaimer","text":"Illustrative data only — not a forecast, benchmark, or client result.","textPreview":"Illustrative data only — not a forecast, benchmark, or client result.","textChars":69,"textLines":1,"bbox":[64,608,1060,28]}
+{"kind":"textbox","id":"sh/6tw7250v","slide":6,"name":"footer-6","text":"INTAG Digital Solutions  /  Working template  /  06","textPreview":"INTAG Digital Solutions  /  Working template  /  06","textChars":51,"textLines":1,"bbox":[64,682,760,22]}
+{"kind":"shape","id":"sh/twnqdkzm","slide":6,"name":"footer-accent-6","bbox":[1176,683,40,4]}
+{"kind":"chart","id":"ch/ehsri5wf","slide":6,"name":"","chartType":"line","bbox":[64,226,846,350]}
+{"kind":"notes","id":"nt/lbwb5o","slide":6,"text":"[Sources]\n- No external data source.\n- Categories and values are authored placeholder data for this editable template only.\n- Not a forecast, benchmark, research result, or client result."}
+{"kind":"slide","id":"sl/eeopc3","slide":7,"title":"NEXT MOVE","textShapes":11}
+{"kind":"textbox","id":"sh/0reh4zy5","slide":7,"name":"label-next-move","text":"NEXT MOVE","textPreview":"NEXT MOVE","textChars":9,"textLines":1,"bbox":[64,184,320,28]}
+{"kind":"textbox","id":"sh/lsnyx4za","slide":7,"name":"closing-decision","text":"[Next decision]","textPreview":"[Next decision]","textChars":15,"textLines":1,"bbox":[64,230,940,120]}
+{"kind":"textbox","id":"sh/mtwz69gv","slide":7,"name":"closing-resolution","text":"[One sentence that resolves the opening]","textPreview":"[One sentence that resolves the opening]","textChars":40,"textLines":1,"bbox":[64,374,920,72]}
+{"kind":"shape","id":"sh/nu5gzuhg","slide":7,"name":"closing-divider","bbox":[64,494,1080,0]}
+{"kind":"textbox","id":"sh/8veh8zy1","slide":7,"name":"label-owner","text":"OWNER","textPreview":"OWNER","textChars":5,"textLines":1,"bbox":[64,524,240,28]}
+{"kind":"textbox","id":"sh/9wny14zm","slide":7,"name":"closing-owner","text":"[Owner]","textPreview":"[Owner]","textChars":7,"textLines":1,"bbox":[64,562,270,52]}
+{"kind":"textbox","id":"sh/ahgza9g7","slide":7,"name":"label-action","text":"ACTION","textPreview":"ACTION","textChars":6,"textLines":1,"bbox":[386,524,240,28]}
+{"kind":"textbox","id":"sh/vipg3ehs","slide":7,"name":"closing-action","text":"[Action]","textPreview":"[Action]","textChars":8,"textLines":1,"bbox":[386,562,270,52]}
+{"kind":"textbox","id":"sh/3ypgv6xs","slide":7,"name":"label-date","text":"DATE","textPreview":"DATE","textChars":4,"textLines":1,"bbox":[708,524,240,28]}
+{"kind":"textbox","id":"sh/2dwfm1g7","slide":7,"name":"closing-date","text":"[DATE]","textPreview":"[DATE]","textChars":6,"textLines":1,"bbox":[708,562,270,52]}
+{"kind":"textbox","id":"sh/p07yxwfy","slide":7,"name":"closing-contact","text":"[email]  ·  [website]","textPreview":"[email]  ·  [website]","textChars":21,"textLines":1,"bbox":[64,646,650,28]}
+{"kind":"textbox","id":"sh/fa5wrmxg","slide":7,"name":"footer-7","text":"INTAG Digital Solutions  /  Working template  /  07","textPreview":"INTAG Digital Solutions  /  Working template  /  07","textChars":51,"textLines":1,"bbox":[64,682,760,22]}
+{"kind":"shape","id":"sh/u9wfihgb","slide":7,"name":"footer-accent-7","bbox":[1176,683,40,4]}
+{"kind":"image","id":"im/e9cjmpcf","slide":7,"name":"","alt":"INTAG reverse logo","bbox":[64,46,234,88]}
+{"kind":"image","id":"im/32to3218","slide":7,"name":"","alt":"INTAG reverse symbol","bbox":[1026,390,190,190]}
+{"kind":"notes","id":"nt/eeopc3","slide":7,"text":"[Sources]\n- Internal asset: assets/logo/png/INTAG_Logo_Primary_Horizontal_Reverse_RGB_v1_1280w.png\n- Internal asset: assets/logo/png/INTAG_Symbol_Reverse_RGB_v1_512.png\n- No external claims."}

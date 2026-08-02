@@ -1,0 +1,100 @@
+{
+  "input": "C:\\Users\\amroh\\Documents\\AI Product Dev Intag\\brand\\intag\\templates\\stationery\\INTAG_Letterhead_Template_AR_v2.docx",
+  "fonts_by_char_count": {
+    "IBM Plex Sans Arabic": 828
+  },
+  "direct_run_formatting_runs": 26,
+  "direct_paragraph_formatting_paragraphs": 23,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 2,
+      "text": "\u0627\u0644\u062a\u0627\u0631\u064a\u062e: [\u0627\u0644\u062a\u0627\u0631\u064a\u062e]  \u00b7  \u0627\u0644\u0645\u0631\u062c\u0639: [\u0631\u0642\u0645 \u0627\u0644\u0645\u0631\u062c\u0639]  \u00b7  \u0627\u0644\u0625\u0635\u062f\u0627\u0631: 2.0",
+      "style": "INTAG Meta"
+    },
+    {
+      "para_index": 3,
+      "text": "[\u0627\u0633\u0645 \u0627\u0644\u0645\u0633\u062a\u0644\u0645]",
+      "style": "Normal"
+    },
+    {
+      "para_index": 9,
+      "text": "\u0627\u0644\u0645\u0648\u0636\u0648\u0639  [\u0627\u0643\u062a\u0628 \u0639\u0646\u0648\u0627\u0646\u064b\u0627 \u0645\u062e\u062a\u0635\u0631\u064b\u0627 \u0648\u0645\u062d\u062f\u062f\u064b\u0627 \u0644\u0644\u0631\u0633\u0627\u0644\u0629]",
+      "style": "INTAG Note"
+    },
+    {
+      "para_index": 15,
+      "text": "[\u0627\u0644\u0627\u0633\u0645 \u0627\u0644\u0643\u0627\u0645\u0644]",
+      "style": "Normal"
+    },
+    {
+      "para_index": 17,
+      "text": "\u0625\u0646\u062a\u0627\u063a \u0644\u0644\u062d\u0644\u0648\u0644 \u0627\u0644\u0631\u0642\u0645\u064a\u0629",
+      "style": "Normal"
+    },
+    {
+      "para_index": 22,
+      "text": "\u0627\u0644\u0634\u0639\u0627\u0631 02 \u0645\u0639\u062a\u0645\u062f\u060c \u0648\u0628\u0642\u064a\u0629 \u0627\u0644\u0642\u0631\u0627\u0631\u0627\u062a \u0642\u064a\u062f \u0627\u0644\u0645\u0631\u0627\u062c\u0639\u0629",
+      "style": "INTAG Meta"
+    }
+  ],
+  "examples": {
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 1,
+        "text": "\u0645\u0631\u0627\u0633\u0644\u0627\u062a \u0631\u0633\u0645\u064a\u0629",
+        "style": "INTAG Kicker"
+      },
+      {
+        "para_index": 2,
+        "text": "\u0627\u0644\u062a\u0627\u0631\u064a\u062e: [\u0627\u0644\u062a\u0627\u0631\u064a\u062e]  \u00b7  \u0627\u0644\u0645\u0631\u062c\u0639: [\u0631\u0642\u0645 \u0627\u0644\u0645\u0631\u062c\u0639]  \u00b7  \u0627\u0644\u0625\u0635\u062f\u0627\u0631: 2.0",
+        "style": "INTAG Meta"
+      },
+      {
+        "para_index": 3,
+        "text": "[\u0627\u0633\u0645 \u0627\u0644\u0645\u0633\u062a\u0644\u0645]",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "text": "[\u0627\u0644\u0635\u0641\u0629 \u0627\u0644\u0648\u0638\u064a\u0641\u064a\u0629]",
+        "style": "Normal"
+      },
+      {
+        "para_index": 5,
+        "text": "[\u0627\u0633\u0645 \u0627\u0644\u062c\u0647\u0629]",
+        "style": "Normal"
+      }
+    ],
+    "direct_run_formatting": [
+      {
+        "para_index": 2,
+        "run_text": "\u0627\u0644\u062a\u0627\u0631\u064a\u062e: [\u0627\u0644\u062a\u0627\u0631\u064a\u062e]  \u00b7  \u0627\u0644\u0645\u0631\u062c\u0639: [\u0631\u0642\u0645 \u0627\u0644\u0645\u0631\u062c\u0639]  \u00b7  \u0627\u0644\u0625\u0635\u062f\u0627\u0631: 2.0",
+        "style": "INTAG Meta"
+      },
+      {
+        "para_index": 3,
+        "run_text": "[\u0627\u0633\u0645 \u0627\u0644\u0645\u0633\u062a\u0644\u0645]",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "run_text": "[\u0627\u0644\u0635\u0641\u0629 \u0627\u0644\u0648\u0638\u064a\u0641\u064a\u0629]",
+        "style": "Normal"
+      },
+      {
+        "para_index": 5,
+        "run_text": "[\u0627\u0633\u0645 \u0627\u0644\u062c\u0647\u0629]",
+        "style": "Normal"
+      },
+      {
+        "para_index": 6,
+        "run_text": "[\u0627\u0644\u0639\u0646\u0648\u0627\u0646]",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}

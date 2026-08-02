@@ -1,0 +1,37 @@
+{
+  "status": "pass",
+  "documents": [
+    {
+      "file": "C:\\Users\\amroh\\Documents\\AI Product Dev Intag\\brand\\intag\\templates\\proposal\\INTAG_Proposal_Starter_AR_v2.docx",
+      "status": "pass",
+      "package_parts": 23,
+      "visible_paragraphs": 152,
+      "rtl_paragraphs": 152,
+      "arabic_runs": 158,
+      "brand_font_runs": 158,
+      "images": 1,
+      "images_with_alt": 1,
+      "tables": 7,
+      "embedded_fonts": 2,
+      "page_geometry": "A4 portrait; 9360 DXA content width",
+      "metadata_title": "قالب مقترح إنتاغ - الإصدار 2.0",
+      "metadata_subject": "قالب عربي قابل للتحرير لإعداد مقترحات العمل ومراجعتها واعتمادها"
+    },
+    {
+      "file": "C:\\Users\\amroh\\Documents\\AI Product Dev Intag\\brand\\intag\\templates\\stationery\\INTAG_Letterhead_Template_AR_v2.docx",
+      "status": "pass",
+      "package_parts": 24,
+      "visible_paragraphs": 20,
+      "rtl_paragraphs": 20,
+      "arabic_runs": 23,
+      "brand_font_runs": 23,
+      "images": 1,
+      "images_with_alt": 1,
+      "tables": 0,
+      "embedded_fonts": 2,
+      "page_geometry": "A4 portrait; 9360 DXA content width",
+      "metadata_title": "نموذج المراسلات الرسمية لإنتاغ - الإصدار 2.0",
+      "metadata_subject": "ورق رسمي عربي عملي وهادئ قابل للتحرير"
+    }
+  ]
+}

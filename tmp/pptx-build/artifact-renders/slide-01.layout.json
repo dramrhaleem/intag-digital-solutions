@@ -1,0 +1,511 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/nc2klk",
+    "id": "nc2klk",
+    "slide": 1,
+    "layoutId": "6ec97077-e1e9-4859-8c56-5feaf2e9c720",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "f572b2a8-cade-443e-8832-af2b855e3f50",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F4F1E9",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "INTAG Working v1",
+    "colors": {
+      "accent1": "#2369B1",
+      "accent2": "#2AB687",
+      "accent3": "#134B82",
+      "accent4": "#087058",
+      "accent5": "#C8CED1",
+      "accent6": "#E95D4F",
+      "bg1": "#F4F1E9",
+      "bg2": "#FFFFFF",
+      "tx1": "#0B0D10",
+      "tx2": "#50616F",
+      "dk1": "#0B0D10",
+      "dk2": "#071B2D",
+      "lt1": "#FFFFFF",
+      "lt2": "#E8F1F2",
+      "hlink": "#2369B1",
+      "folHlink": "#087058"
+    },
+    "typefaces": [
+      "Poppins"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "6ec97077-e1e9-4859-8c56-5feaf2e9c720",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "f572b2a8-cade-443e-8832-af2b855e3f50",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "f572b2a8-cade-443e-8832-af2b855e3f50",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/0j6povul",
+      "id": "1",
+      "bbox": [
+        750,
+        0,
+        530,
+        720
+      ],
+      "alt": "INTAG blue and green production-path key visual",
+      "contentType": "image/png",
+      "imageCrop": {
+        "left": 0.28,
+        "top": 0,
+        "right": 0.18,
+        "bottom": 0
+      },
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "a714e4c0-114f-4686-9a85-984fb347671a",
+        "contentType": "image/png",
+        "byteLength": 2630172
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ytkn2dsf",
+      "id": "2",
+      "name": "cover-green-rail",
+      "bbox": [
+        732,
+        0,
+        18,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#2AB687",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/yho7mlcf",
+      "id": "3",
+      "bbox": [
+        64,
+        48,
+        225,
+        84
+      ],
+      "alt": "INTAG primary logo",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "2dd13aa7-70ff-4717-a064-a87a9d8544be",
+        "contentType": "image/png",
+        "byteLength": 17641
+      }
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8zm58nah",
+      "id": "4",
+      "name": "label--deck-type-date-",
+      "bbox": [
+        64,
+        198,
+        520,
+        28
+      ],
+      "geometry": "rect",
+      "text": "[DECK TYPE]  ·  [DATE]",
+      "textPreview": "[DECK TYPE]  ·  [DATE]",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "Poppins",
+        "color": "#087058",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "[DECK TYPE]  ·  [DATE]"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "[DECK TYPE]  ·  [DATE]",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Poppins",
+            "color": "#087058",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "[DECK TYPE]  ·  [DATE]",
+              "fontSize": 17,
+              "typeface": "Poppins",
+              "color": "#087058",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t0vm1sr2",
+      "id": "5",
+      "name": "cover-title",
+      "bbox": [
+        64,
+        246,
+        620,
+        158
+      ],
+      "geometry": "rect",
+      "text": "[Presentation title]",
+      "textPreview": "[Presentation title]",
+      "resolvedFontSize": 62,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 62,
+        "typeface": "Poppins",
+        "color": "#0B0D10",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "[Presentation title]"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "[Presentation title]",
+          "lineSpacingPercent": 92000,
+          "resolvedTextStyle": {
+            "fontSize": 62,
+            "typeface": "Poppins",
+            "color": "#0B0D10",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.92
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "[Presentation title]",
+              "fontSize": 62,
+              "typeface": "Poppins",
+              "color": "#0B0D10",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.92
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6x4n6dsb",
+      "id": "6",
+      "name": "cover-subtitle",
+      "bbox": [
+        64,
+        430,
+        590,
+        84
+      ],
+      "geometry": "rect",
+      "text": "[One clear outcome-led subtitle]",
+      "textPreview": "[One clear outcome-led subtitle]",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "Poppins",
+        "color": "#50616F",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "[One clear outcome-led subtitle]"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "[One clear outcome-led subtitle]",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "Poppins",
+            "color": "#50616F",
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "[One clear outcome-led subtitle]",
+              "fontSize": 25,
+              "typeface": "Poppins",
+              "color": "#50616F",
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7yd4zitw",
+      "id": "7",
+      "name": "cover-blue-rule",
+      "bbox": [
+        64,
+        566,
+        118,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#2369B1",
+      "lineWidth": 5
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o3ilwjad",
+      "id": "8",
+      "name": "cover-brand-name",
+      "bbox": [
+        64,
+        596,
+        300,
+        26
+      ],
+      "geometry": "rect",
+      "text": "INTAG DIGITAL SOLUTIONS",
+      "textPreview": "INTAG DIGITAL SOLUTIONS",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Poppins",
+        "color": "#0B0D10",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "INTAG DIGITAL SOLUTIONS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "INTAG DIGITAL SOLUTIONS",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Poppins",
+            "color": "#0B0D10",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INTAG DIGITAL SOLUTIONS",
+              "fontSize": 16,
+              "typeface": "Poppins",
+              "color": "#0B0D10",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/94rmpobi",
+      "id": "9",
+      "name": "cover-status",
+      "bbox": [
+        64,
+        630,
+        600,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Working template · Replace all bracketed fields before use",
+      "textPreview": "Working template · Replace all bracketed fields before use",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Poppins",
+        "color": "#50616F",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Working template · Replace all bracketed fields before use"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Working template · Replace all bracketed fields before use",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Poppins",
+            "color": "#50616F",
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Working template · Replace all bracketed fields before use",
+              "fontSize": 16,
+              "typeface": "Poppins",
+              "color": "#50616F",
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

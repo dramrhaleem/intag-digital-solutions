@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">INTAG Connected Frame pattern - light</title>
+  <desc id="desc">INTAG brand system v2.0. Logo 02 Connected Frame is approved; other identity decisions remain working unless stated.</desc>
+  <rect width="512" height="512" fill="#F4F1E9"/>
+  
+      <defs>
+        <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+          <circle cx="2" cy="2" r="1.5" fill="#50616F" opacity=".22"/>
+        </pattern>
+      </defs>
+      <rect width="512" height="512" fill="url(#grid)"/>
+      <path d="M-18 304V54H274" fill="none" stroke="#2369B1" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" opacity=".95"/>
+      <path d="M530 208V458H238" fill="none" stroke="#2AB687" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" opacity=".92"/>
+      <circle cx="256" cy="256" r="21" fill="#0B0D10"/>
+    
+</svg>

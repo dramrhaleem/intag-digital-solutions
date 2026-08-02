@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" role="img" aria-labelledby="title desc">
+  <title id="title">INTAG small-size symbol for light backgrounds</title>
+  <desc id="desc">INTAG brand system v2.0. Logo 02 Connected Frame is approved; other identity decisions remain working unless stated.</desc>
+  
+  <g>
+          <path d="M5 21V7H19" fill="none" stroke="#2369B1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M27 11V25H13" fill="none" stroke="#2AB687" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+          <circle cx="16" cy="16" r="3.25" fill="#0B0D10"/>
+        </g>
+</svg>

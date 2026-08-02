@@ -1,0 +1,282 @@
+[
+  {
+    "foreground": "ink",
+    "background": "white",
+    "ratio": 19.46,
+    "aa_normal": true,
+    "aa_large": true
+  },
+  {
+    "foreground": "ink",
+    "background": "mineral",
+    "ratio": 17.24,
+    "aa_normal": true,
+    "aa_large": true
+  },
+  {
+    "foreground": "ink",
+    "background": "ink",
+    "ratio": 1.0,
+    "aa_normal": false,
+    "aa_large": false
+  },
+  {
+    "foreground": "ink",
+    "background": "blue",
+    "ratio": 3.45,
+    "aa_normal": false,
+    "aa_large": true
+  },
+  {
+    "foreground": "ink",
+    "background": "green",
+    "ratio": 7.54,
+    "aa_normal": true,
+    "aa_large": true
+  },
+  {
+    "foreground": "blue",
+    "background": "white",
+    "ratio": 5.63,
+    "aa_normal": true,
+    "aa_large": true
+  },
+  {
+    "foreground": "blue",
+    "background": "mineral",
+    "ratio": 4.99,
+    "aa_normal": true,
+    "aa_large": true
+  },
+  {
+    "foreground": "blue",
+    "background": "ink",
+    "ratio": 3.45,
+    "aa_normal": false,
+    "aa_large": true
+  },
+  {
+    "foreground": "blue",
+    "background": "blue",
+    "ratio": 1.0,
+    "aa_normal": false,
+    "aa_large": false
+  },
+  {
+    "foreground": "blue",
+    "background": "green",
+    "ratio": 2.18,
+    "aa_normal": false,
+    "aa_large": false
+  },
+  {
+    "foreground": "blue_deep",
+    "background": "white",
+    "ratio": 8.91,
+    "aa_normal": true,
+    "aa_large": true
+  },
+  {
+    "foreground": "blue_deep",
+    "background": "mineral",
+    "ratio": 7.9,
+    "aa_normal": true,
+    "aa_large": true
+  },
+  {
+    "foreground": "blue_deep",
+    "background": "ink",
+    "ratio": 2.18,
+    "aa_normal": false,
+    "aa_large": false
+  },
+  {
+    "foreground": "blue_deep",
+    "background": "blue",
+    "ratio": 1.58,
+    "aa_normal": false,
+    "aa_large": false
+  },
+  {
+    "foreground": "blue_deep",
+    "background": "green",
+    "ratio": 3.45,
+    "aa_normal": false,
+    "aa_large": true
+  },
+  {
+    "foreground": "green",
+    "background": "white",
+    "ratio": 2.58,
+    "aa_normal": false,
+    "aa_large": false
+  },
+  {
+    "foreground": "green",
+    "background": "mineral",
+    "ratio": 2.29,
+    "aa_normal": false,
+    "aa_large": false
+  },
+  {
+    "foreground": "green",
+    "background": "ink",
+    "ratio": 7.54,
+    "aa_normal": true,
+    "aa_large": true
+  },
+  {
+    "foreground": "green",
+    "background": "blue",
+    "ratio": 2.18,
+    "aa_normal": false,
+    "aa_large": false
+  },
+  {
+    "foreground": "green",
+    "background": "green",
+    "ratio": 1.0,
+    "aa_normal": false,
+    "aa_large": false
+  },
+  {
+    "foreground": "green_deep",
+    "background": "white",
+    "ratio": 6.05,
+    "aa_normal": true,
+    "aa_large": true
+  },
+  {
+    "foreground": "green_deep",
+    "background": "mineral",
+    "ratio": 5.36,
+    "aa_normal": true,
+    "aa_large": true
+  },
+  {
+    "foreground": "green_deep",
+    "background": "ink",
+    "ratio": 3.21,
+    "aa_normal": false,
+    "aa_large": true
+  },
+  {
+    "foreground": "green_deep",
+    "background": "blue",
+    "ratio": 1.07,
+    "aa_normal": false,
+    "aa_large": false
+  },
+  {
+    "foreground": "green_deep",
+    "background": "green",
+    "ratio": 2.35,
+    "aa_normal": false,
+    "aa_large": false
+  },
+  {
+    "foreground": "slate",
+    "background": "white",
+    "ratio": 6.4,
+    "aa_normal": true,
+    "aa_large": true
+  },
+  {
+    "foreground": "slate",
+    "background": "mineral",
+    "ratio": 5.67,
+    "aa_normal": true,
+    "aa_large": true
+  },
+  {
+    "foreground": "slate",
+    "background": "ink",
+    "ratio": 3.04,
+    "aa_normal": false,
+    "aa_large": true
+  },
+  {
+    "foreground": "slate",
+    "background": "blue",
+    "ratio": 1.14,
+    "aa_normal": false,
+    "aa_large": false
+  },
+  {
+    "foreground": "slate",
+    "background": "green",
+    "ratio": 2.48,
+    "aa_normal": false,
+    "aa_large": false
+  },
+  {
+    "foreground": "mineral",
+    "background": "white",
+    "ratio": 1.13,
+    "aa_normal": false,
+    "aa_large": false
+  },
+  {
+    "foreground": "mineral",
+    "background": "mineral",
+    "ratio": 1.0,
+    "aa_normal": false,
+    "aa_large": false
+  },
+  {
+    "foreground": "mineral",
+    "background": "ink",
+    "ratio": 17.24,
+    "aa_normal": true,
+    "aa_large": true
+  },
+  {
+    "foreground": "mineral",
+    "background": "blue",
+    "ratio": 4.99,
+    "aa_normal": true,
+    "aa_large": true
+  },
+  {
+    "foreground": "mineral",
+    "background": "green",
+    "ratio": 2.29,
+    "aa_normal": false,
+    "aa_large": false
+  },
+  {
+    "foreground": "white",
+    "background": "white",
+    "ratio": 1.0,
+    "aa_normal": false,
+    "aa_large": false
+  },
+  {
+    "foreground": "white",
+    "background": "mineral",
+    "ratio": 1.13,
+    "aa_normal": false,
+    "aa_large": false
+  },
+  {
+    "foreground": "white",
+    "background": "ink",
+    "ratio": 19.46,
+    "aa_normal": true,
+    "aa_large": true
+  },
+  {
+    "foreground": "white",
+    "background": "blue",
+    "ratio": 5.63,
+    "aa_normal": true,
+    "aa_large": true
+  },
+  {
+    "foreground": "white",
+    "background": "green",
+    "ratio": 2.58,
+    "aa_normal": false,
+    "aa_large": false
+  }
+]

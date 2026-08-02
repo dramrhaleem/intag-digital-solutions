@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "brand": "INTAG Digital Solutions",
+    "version": "2.0-logo02-approved",
+    "logo_decision": "Approved — Logo 02 Connected Frame",
+    "identity_status": "Working — non-logo brand decisions require Brand Owner approval"
+  },
+  "color": {
+    "ink": {
+      "hex": "#0B0D10",
+      "rgb": [
+        11,
+        13,
+        16
+      ],
+      "cmyk_process_approx": [
+        31,
+        19,
+        0,
+        94
+      ]
+    },
+    "midnight": {
+      "hex": "#071B2D",
+      "rgb": [
+        7,
+        27,
+        45
+      ],
+      "cmyk_process_approx": [
+        84,
+        40,
+        0,
+        82
+      ]
+    },
+    "blue": {
+      "hex": "#2369B1",
+      "rgb": [
+        35,
+        105,
+        177
+      ],
+      "cmyk_process_approx": [
+        80,
+        41,
+        0,
+        31
+      ]
+    },
+    "blue_deep": {
+      "hex": "#134B82",
+      "rgb": [
+        19,
+        75,
+        130
+      ],
+      "cmyk_process_approx": [
+        85,
+        42,
+        0,
+        49
+      ]
+    },
+    "green": {
+      "hex": "#2AB687",
+      "rgb": [
+        42,
+        182,
+        135
+      ],
+      "cmyk_process_approx": [
+        77,
+        0,
+        26,
+        29
+      ]
+    },
+    "green_deep": {
+      "hex": "#087058",
+      "rgb": [
+        8,
+        112,
+        88
+      ],
+      "cmyk_process_approx": [
+        93,
+        0,
+        21,
+        56
+      ]
+    },
+    "mineral": {
+      "hex": "#F4F1E9",
+      "rgb": [
+        244,
+        241,
+        233
+      ],
+      "cmyk_process_approx": [
+        0,
+        1,
+        5,
+        4
+      ]
+    },
+    "white": {
+      "hex": "#FFFFFF",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "cmyk_process_approx": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "aluminum": {
+      "hex": "#C8CED1",
+      "rgb": [
+        200,
+        206,
+        209
+      ],
+      "cmyk_process_approx": [
+        4,
+        1,
+        0,
+        18
+      ]
+    },
+    "mist": {
+      "hex": "#E8F1F2",
+      "rgb": [
+        232,
+        241,
+        242
+      ],
+      "cmyk_process_approx": [
+        4,
+        0,
+        0,
+        5
+      ]
+    },
+    "slate": {
+      "hex": "#50616F",
+      "rgb": [
+        80,
+        97,
+        111
+      ],
+      "cmyk_process_approx": [
+        28,
+        13,
+        0,
+        56
+      ]
+    },
+    "amber": {
+      "hex": "#FFB547",
+      "rgb": [
+        255,
+        181,
+        71
+      ],
+      "cmyk_process_approx": [
+        0,
+        29,
+        72,
+        0
+      ]
+    },
+    "coral": {
+      "hex": "#E95D4F",
+      "rgb": [
+        233,
+        93,
+        79
+      ],
+      "cmyk_process_approx": [
+        0,
+        60,
+        66,
+        9
+      ]
+    }
+  },
+  "typography": {
+    "latin": {
+      "display": "Poppins",
+      "weights": [
+        400,
+        500,
+        600,
+        700,
+        800
+      ]
+    },
+    "arabic": {
+      "primary": "IBM Plex Sans Arabic",
+      "weights": [
+        400,
+        500,
+        600,
+        700
+      ]
+    },
+    "fallback": {
+      "latin": "Arial, sans-serif",
+      "arabic": "Tahoma, Arial, sans-serif"
+    }
+  },
+  "space": {
+    "2xs": 4,
+    "xs": 8,
+    "sm": 12,
+    "md": 16,
+    "lg": 24,
+    "xl": 32,
+    "2xl": 48,
+    "3xl": 72,
+    "4xl": 96
+  },
+  "radius": {
+    "small": 8,
+    "medium": 16,
+    "large": 28,
+    "pill": 999
+  },
+  "motion": {
+    "fast_ms": 140,
+    "standard_ms": 260,
+    "expressive_ms": 520,
+    "ease_standard": "cubic-bezier(.2,.8,.2,1)",
+    "ease_exit": "cubic-bezier(.4,0,1,1)"
+  }
+}
