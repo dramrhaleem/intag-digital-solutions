@@ -206,6 +206,10 @@ td.num,th.num{font-family:var(--intag-font-en-text);direction:ltr;text-align:sta
 .logo-tile{background:var(--intag-forest-900);border:1px solid var(--intag-color-border-subtle);
   border-radius:20px;padding:44px 60px;display:grid;place-items:center;min-height:190px}
 .logo-tile.light{background:var(--intag-sand-100);border-color:var(--intag-sand-300)}
+/* The EN and AR descriptor lockups are not the same proportion, so their tiles
+   came out 5px apart. Let the tile fill its row instead of hugging its art. */
+.grid > figure{display:flex;flex-direction:column}
+.grid > figure .logo-tile{flex:1}
 /* The logo files are cropped tight to the ink, so the frame belongs to the tile.
    A border or radius on the image itself cuts the I and the G. */
 .logo-tile img{width:auto;max-width:100%;max-height:130px;
