@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="264" viewBox="0 0 264 264">
+<defs><pattern id="p" width="132" height="132" patternUnits="userSpaceOnUse">
+<rect x="43" y="33" width="46" height="5" rx="2.5" fill="#123332" opacity="0.16"/>
+<rect x="-23" y="99" width="46" height="5" rx="2.5" fill="#123332" opacity="0.16"/>
+<rect x="109" y="99" width="46" height="5" rx="2.5" fill="#123332" opacity="0.16"/>
+</pattern></defs>
+<rect width="264" height="264" fill="#F8F5F2"/><rect width="264" height="264" fill="url(#p)"/></svg>

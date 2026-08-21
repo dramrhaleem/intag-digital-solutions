@@ -1,0 +1,1663 @@
+{
+  "meta": {
+    "brand": "INTAG Digital Solutions",
+    "generated": "2026-08-20T18:51:21+00:00",
+    "generator": "build_palette.py",
+    "color_space": "oklch",
+    "steps": [
+      "50",
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "950"
+    ],
+    "step_lightness": {
+      "50": 0.971,
+      "100": 0.936,
+      "200": 0.885,
+      "300": 0.822,
+      "400": 0.74,
+      "500": 0.645,
+      "600": 0.56,
+      "700": 0.47,
+      "800": 0.385,
+      "900": 0.295,
+      "950": 0.205
+    },
+    "notes": "L targets are fixed per step so the same step number carries the same visual weight across every role. Chroma rides an envelope peaking near L=0.62 and tapering to both ends, then is fitted to sRGB with coloraide's oklch-chroma method.",
+    "equity_source": "Document from Amr.pdf"
+  },
+  "roles": {
+    "forest": {
+      "seed": "#407371",
+      "anchor_step": "600",
+      "hue": 192.33,
+      "seed_chroma": 0.0551,
+      "is_neutral": false,
+      "ramp": {
+        "50": {
+          "hex": "#ebf9f8",
+          "rgb": [
+            235,
+            249,
+            248
+          ],
+          "rgb_string": "rgb(235 249 248)",
+          "oklch": "oklch(0.9710 0.0144 192.33)",
+          "oklch_values": {
+            "l": 0.971,
+            "c": 0.0144,
+            "h": 192.33
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "100": {
+          "hex": "#daefee",
+          "rgb": [
+            218,
+            239,
+            238
+          ],
+          "rgb_string": "rgb(218 239 238)",
+          "oklch": "oklch(0.9360 0.0222 192.33)",
+          "oklch_values": {
+            "l": 0.936,
+            "c": 0.0222,
+            "h": 192.33
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "200": {
+          "hex": "#c3e0de",
+          "rgb": [
+            195,
+            224,
+            222
+          ],
+          "rgb_string": "rgb(195 224 222)",
+          "oklch": "oklch(0.8850 0.0307 192.33)",
+          "oklch_values": {
+            "l": 0.885,
+            "c": 0.0307,
+            "h": 192.33
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "300": {
+          "hex": "#a9cdcb",
+          "rgb": [
+            169,
+            205,
+            203
+          ],
+          "rgb_string": "rgb(169 205 203)",
+          "oklch": "oklch(0.8220 0.0390 192.33)",
+          "oklch_values": {
+            "l": 0.822,
+            "c": 0.039,
+            "h": 192.33
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "400": {
+          "hex": "#88b5b3",
+          "rgb": [
+            136,
+            181,
+            179
+          ],
+          "rgb_string": "rgb(136 181 179)",
+          "oklch": "oklch(0.7400 0.0480 192.33)",
+          "oklch_values": {
+            "l": 0.74,
+            "c": 0.048,
+            "h": 192.33
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "500": {
+          "hex": "#639997",
+          "rgb": [
+            99,
+            153,
+            151
+          ],
+          "rgb_string": "rgb(99 153 151)",
+          "oklch": "oklch(0.6450 0.0570 192.33)",
+          "oklch_values": {
+            "l": 0.645,
+            "c": 0.057,
+            "h": 192.33
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "600": {
+          "hex": "#407371",
+          "rgb": [
+            64,
+            115,
+            113
+          ],
+          "rgb_string": "rgb(64 115 113)",
+          "oklch": "oklch(0.5193 0.0551 192.33)",
+          "oklch_values": {
+            "l": 0.5193,
+            "c": 0.0551,
+            "h": 192.33
+          },
+          "gamut_clamped": false,
+          "is_seed": true
+        },
+        "700": {
+          "hex": "#386462",
+          "rgb": [
+            56,
+            100,
+            98
+          ],
+          "rgb_string": "rgb(56 100 98)",
+          "oklch": "oklch(0.4700 0.0488 192.33)",
+          "oklch_values": {
+            "l": 0.47,
+            "c": 0.0488,
+            "h": 192.33
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "750": {
+          "hex": "#315251",
+          "rgb": [
+            49,
+            82,
+            81
+          ],
+          "rgb_string": "rgb(49 82 81)",
+          "oklch": "oklch(0.4130 0.0387 193.30)",
+          "oklch_values": {
+            "l": 0.413,
+            "c": 0.0387,
+            "h": 193.3
+          },
+          "gamut_clamped": false,
+          "is_seed": false,
+          "equity": "لون السطح المرتفع في ملف المؤسس"
+        },
+        "800": {
+          "hex": "#264b4a",
+          "rgb": [
+            38,
+            75,
+            74
+          ],
+          "rgb_string": "rgb(38 75 74)",
+          "oklch": "oklch(0.3850 0.0424 192.33)",
+          "oklch_values": {
+            "l": 0.385,
+            "c": 0.0424,
+            "h": 192.33
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "850": {
+          "hex": "#1D4241",
+          "rgb": [
+            29,
+            66,
+            65
+          ],
+          "rgb_string": "rgb(29 66 65)",
+          "oklch": "oklch(0.3517 0.0424 193.06)",
+          "oklch_values": {
+            "l": 0.352,
+            "c": 0.0424,
+            "h": 193.06
+          },
+          "gamut_clamped": false,
+          "is_seed": false,
+          "equity": "لون البطاقات في ملف المؤسس"
+        },
+        "900": {
+          "hex": "#123332",
+          "rgb": [
+            18,
+            51,
+            50
+          ],
+          "rgb_string": "rgb(18 51 50)",
+          "oklch": "oklch(0.2964 0.0384 192.58)",
+          "oklch_values": {
+            "l": 0.296,
+            "c": 0.0384,
+            "h": 192.58
+          },
+          "gamut_clamped": false,
+          "is_seed": false,
+          "equity": "أرضية العلامة الأصلية في ملف المؤسس"
+        },
+        "950": {
+          "hex": "#061b1a",
+          "rgb": [
+            6,
+            27,
+            26
+          ],
+          "rgb_string": "rgb(6 27 26)",
+          "oklch": "oklch(0.2050 0.0273 192.33)",
+          "oklch_values": {
+            "l": 0.205,
+            "c": 0.0273,
+            "h": 192.33
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        }
+      }
+    },
+    "palm": {
+      "seed": "#329e69",
+      "anchor_step": "500",
+      "hue": 157.71,
+      "seed_chroma": 0.1266,
+      "is_neutral": false,
+      "ramp": {
+        "50": {
+          "hex": "#e5fced",
+          "rgb": [
+            229,
+            252,
+            237
+          ],
+          "rgb_string": "rgb(229 252 237)",
+          "oklch": "oklch(0.9710 0.0319 157.71)",
+          "oklch_values": {
+            "l": 0.971,
+            "c": 0.0319,
+            "h": 157.71
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "100": {
+          "hex": "#d0f4dd",
+          "rgb": [
+            208,
+            244,
+            221
+          ],
+          "rgb_string": "rgb(208 244 221)",
+          "oklch": "oklch(0.9360 0.0494 157.71)",
+          "oklch_values": {
+            "l": 0.936,
+            "c": 0.0494,
+            "h": 157.71
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "200": {
+          "hex": "#b4e7c8",
+          "rgb": [
+            180,
+            231,
+            200
+          ],
+          "rgb_string": "rgb(180 231 200)",
+          "oklch": "oklch(0.8850 0.0681 157.71)",
+          "oklch_values": {
+            "l": 0.885,
+            "c": 0.0681,
+            "h": 157.71
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "300": {
+          "hex": "#95d6af",
+          "rgb": [
+            149,
+            214,
+            175
+          ],
+          "rgb_string": "rgb(149 214 175)",
+          "oklch": "oklch(0.8220 0.0866 157.71)",
+          "oklch_values": {
+            "l": 0.822,
+            "c": 0.0866,
+            "h": 157.71
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "400": {
+          "hex": "#6cbf91",
+          "rgb": [
+            108,
+            191,
+            145
+          ],
+          "rgb_string": "rgb(108 191 145)",
+          "oklch": "oklch(0.7400 0.1067 157.71)",
+          "oklch_values": {
+            "l": 0.74,
+            "c": 0.1067,
+            "h": 157.71
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "500": {
+          "hex": "#329e69",
+          "rgb": [
+            50,
+            158,
+            105
+          ],
+          "rgb_string": "rgb(50 158 105)",
+          "oklch": "oklch(0.6246 0.1266 157.71)",
+          "oklch_values": {
+            "l": 0.6246,
+            "c": 0.1266,
+            "h": 157.71
+          },
+          "gamut_clamped": false,
+          "is_seed": true
+        },
+        "600": {
+          "hex": "#1c8958",
+          "rgb": [
+            28,
+            137,
+            88
+          ],
+          "rgb_string": "rgb(28 137 88)",
+          "oklch": "oklch(0.5600 0.1224 157.71)",
+          "oklch_values": {
+            "l": 0.56,
+            "c": 0.1224,
+            "h": 157.71
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "700": {
+          "hex": "#066c42",
+          "rgb": [
+            6,
+            108,
+            66
+          ],
+          "rgb_string": "rgb(6 108 66)",
+          "oklch": "oklch(0.4700 0.1083 157.71)",
+          "oklch_values": {
+            "l": 0.47,
+            "c": 0.1083,
+            "h": 157.71
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "800": {
+          "hex": "#00522f",
+          "rgb": [
+            0,
+            82,
+            47
+          ],
+          "rgb_string": "rgb(0 82 47)",
+          "oklch": "oklch(0.3863 0.0921 156.91)",
+          "oklch_values": {
+            "l": 0.3863,
+            "c": 0.0921,
+            "h": 156.91
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        },
+        "900": {
+          "hex": "#00381c",
+          "rgb": [
+            0,
+            56,
+            28
+          ],
+          "rgb_string": "rgb(0 56 28)",
+          "oklch": "oklch(0.2980 0.0732 155.30)",
+          "oklch_values": {
+            "l": 0.298,
+            "c": 0.0732,
+            "h": 155.3
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        },
+        "950": {
+          "hex": "#001f0c",
+          "rgb": [
+            0,
+            31,
+            12
+          ],
+          "rgb_string": "rgb(0 31 12)",
+          "oklch": "oklch(0.2092 0.0537 153.15)",
+          "oklch_values": {
+            "l": 0.2092,
+            "c": 0.0537,
+            "h": 153.15
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        }
+      }
+    },
+    "terracotta": {
+      "seed": "#e8704a",
+      "anchor_step": "500",
+      "hue": 38.12,
+      "seed_chroma": 0.1583,
+      "is_neutral": false,
+      "ramp": {
+        "50": {
+          "hex": "#ffeee4",
+          "rgb": [
+            255,
+            238,
+            228
+          ],
+          "rgb_string": "rgb(255 238 228)",
+          "oklch": "oklch(0.9589 0.0232 51.87)",
+          "oklch_values": {
+            "l": 0.9589,
+            "c": 0.0232,
+            "h": 51.87
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        },
+        "100": {
+          "hex": "#ffdecf",
+          "rgb": [
+            255,
+            222,
+            207
+          ],
+          "rgb_string": "rgb(255 222 207)",
+          "oklch": "oklch(0.9236 0.0420 45.37)",
+          "oklch_values": {
+            "l": 0.9236,
+            "c": 0.042,
+            "h": 45.37
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        },
+        "200": {
+          "hex": "#ffc6b1",
+          "rgb": [
+            255,
+            198,
+            177
+          ],
+          "rgb_string": "rgb(255 198 177)",
+          "oklch": "oklch(0.8725 0.0716 41.91)",
+          "oklch_values": {
+            "l": 0.8725,
+            "c": 0.0716,
+            "h": 41.91
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        },
+        "300": {
+          "hex": "#ffac91",
+          "rgb": [
+            255,
+            172,
+            145
+          ],
+          "rgb_string": "rgb(255 172 145)",
+          "oklch": "oklch(0.8188 0.1051 38.69)",
+          "oklch_values": {
+            "l": 0.8188,
+            "c": 0.1051,
+            "h": 38.69
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        },
+        "350": {
+          "hex": "#EF9C82",
+          "rgb": [
+            239,
+            156,
+            130
+          ],
+          "rgb_string": "rgb(239 156 130)",
+          "oklch": "oklch(0.7697 0.1066 38.14)",
+          "oklch_values": {
+            "l": 0.77,
+            "c": 0.1066,
+            "h": 38.14
+          },
+          "gamut_clamped": false,
+          "is_seed": false,
+          "equity": "النص الدافئ المساعد في ملف المؤسس"
+        },
+        "400": {
+          "hex": "#f28b6b",
+          "rgb": [
+            242,
+            139,
+            107
+          ],
+          "rgb_string": "rgb(242 139 107)",
+          "oklch": "oklch(0.7400 0.1334 38.12)",
+          "oklch_values": {
+            "l": 0.74,
+            "c": 0.1334,
+            "h": 38.12
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "500": {
+          "hex": "#e8704a",
+          "rgb": [
+            232,
+            112,
+            74
+          ],
+          "rgb_string": "rgb(232 112 74)",
+          "oklch": "oklch(0.6803 0.1583 38.12)",
+          "oklch_values": {
+            "l": 0.6803,
+            "c": 0.1583,
+            "h": 38.12
+          },
+          "gamut_clamped": false,
+          "is_seed": true
+        },
+        "600": {
+          "hex": "#bc4c27",
+          "rgb": [
+            188,
+            76,
+            39
+          ],
+          "rgb_string": "rgb(188 76 39)",
+          "oklch": "oklch(0.5600 0.1530 38.12)",
+          "oklch_values": {
+            "l": 0.56,
+            "c": 0.153,
+            "h": 38.12
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "700": {
+          "hex": "#973817",
+          "rgb": [
+            151,
+            56,
+            23
+          ],
+          "rgb_string": "rgb(151 56 23)",
+          "oklch": "oklch(0.4700 0.1354 38.12)",
+          "oklch_values": {
+            "l": 0.47,
+            "c": 0.1354,
+            "h": 38.12
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "800": {
+          "hex": "#71260E",
+          "rgb": [
+            113,
+            38,
+            14
+          ],
+          "rgb_string": "rgb(113 38 14)",
+          "oklch": "oklch(0.3788 0.1116 37.26)",
+          "oklch_values": {
+            "l": 0.379,
+            "c": 0.1116,
+            "h": 37.26
+          },
+          "gamut_clamped": false,
+          "is_seed": false,
+          "equity": "لون شارة القسم في ملف المؤسس"
+        },
+        "900": {
+          "hex": "#521400",
+          "rgb": [
+            82,
+            20,
+            0
+          ],
+          "rgb_string": "rgb(82 20 0)",
+          "oklch": "oklch(0.2951 0.0974 37.60)",
+          "oklch_values": {
+            "l": 0.2951,
+            "c": 0.0974,
+            "h": 37.6
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        },
+        "950": {
+          "hex": "#310500",
+          "rgb": [
+            49,
+            5,
+            0
+          ],
+          "rgb_string": "rgb(49 5 0)",
+          "oklch": "oklch(0.2055 0.0743 33.82)",
+          "oklch_values": {
+            "l": 0.2055,
+            "c": 0.0743,
+            "h": 33.82
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        }
+      }
+    },
+    "apricot": {
+      "seed": "#ffd9be",
+      "anchor_step": "200",
+      "hue": 57.34,
+      "seed_chroma": 0.0557,
+      "is_neutral": false,
+      "ramp": {
+        "50": {
+          "hex": "#fff2e5",
+          "rgb": [
+            255,
+            242,
+            229
+          ],
+          "rgb_string": "rgb(255 242 229)",
+          "oklch": "oklch(0.9670 0.0223 66.17)",
+          "oklch_values": {
+            "l": 0.967,
+            "c": 0.0223,
+            "h": 66.17
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        },
+        "100": {
+          "hex": "#ffe4d0",
+          "rgb": [
+            255,
+            228,
+            208
+          ],
+          "rgb_string": "rgb(255 228 208)",
+          "oklch": "oklch(0.9354 0.0398 58.05)",
+          "oklch_values": {
+            "l": 0.9354,
+            "c": 0.0398,
+            "h": 58.05
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        },
+        "200": {
+          "hex": "#ffd9be",
+          "rgb": [
+            255,
+            217,
+            190
+          ],
+          "rgb_string": "rgb(255 217 190)",
+          "oklch": "oklch(0.9105 0.0557 57.34)",
+          "oklch_values": {
+            "l": 0.9105,
+            "c": 0.0557,
+            "h": 57.34
+          },
+          "gamut_clamped": false,
+          "is_seed": true
+        },
+        "300": {
+          "hex": "#e9ba98",
+          "rgb": [
+            233,
+            186,
+            152
+          ],
+          "rgb_string": "rgb(233 186 152)",
+          "oklch": "oklch(0.8220 0.0708 57.34)",
+          "oklch_values": {
+            "l": 0.822,
+            "c": 0.0708,
+            "h": 57.34
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "400": {
+          "hex": "#d59d74",
+          "rgb": [
+            213,
+            157,
+            116
+          ],
+          "rgb_string": "rgb(213 157 116)",
+          "oklch": "oklch(0.7400 0.0872 57.34)",
+          "oklch_values": {
+            "l": 0.74,
+            "c": 0.0872,
+            "h": 57.34
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "500": {
+          "hex": "#bd7d4b",
+          "rgb": [
+            189,
+            125,
+            75
+          ],
+          "rgb_string": "rgb(189 125 75)",
+          "oklch": "oklch(0.6450 0.1035 57.34)",
+          "oklch_values": {
+            "l": 0.645,
+            "c": 0.1035,
+            "h": 57.34
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "600": {
+          "hex": "#a06434",
+          "rgb": [
+            160,
+            100,
+            52
+          ],
+          "rgb_string": "rgb(160 100 52)",
+          "oklch": "oklch(0.5600 0.1001 57.34)",
+          "oklch_values": {
+            "l": 0.56,
+            "c": 0.1001,
+            "h": 57.34
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "700": {
+          "hex": "#804d23",
+          "rgb": [
+            128,
+            77,
+            35
+          ],
+          "rgb_string": "rgb(128 77 35)",
+          "oklch": "oklch(0.4700 0.0885 57.34)",
+          "oklch_values": {
+            "l": 0.47,
+            "c": 0.0885,
+            "h": 57.34
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "800": {
+          "hex": "#623814",
+          "rgb": [
+            98,
+            56,
+            20
+          ],
+          "rgb_string": "rgb(98 56 20)",
+          "oklch": "oklch(0.3850 0.0770 57.34)",
+          "oklch_values": {
+            "l": 0.385,
+            "c": 0.077,
+            "h": 57.34
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "900": {
+          "hex": "#442306",
+          "rgb": [
+            68,
+            35,
+            6
+          ],
+          "rgb_string": "rgb(68 35 6)",
+          "oklch": "oklch(0.2950 0.0639 57.34)",
+          "oklch_values": {
+            "l": 0.295,
+            "c": 0.0639,
+            "h": 57.34
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "950": {
+          "hex": "#271000",
+          "rgb": [
+            39,
+            16,
+            0
+          ],
+          "rgb_string": "rgb(39 16 0)",
+          "oklch": "oklch(0.2050 0.0495 57.26)",
+          "oklch_values": {
+            "l": 0.205,
+            "c": 0.0495,
+            "h": 57.26
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        }
+      }
+    },
+    "sand": {
+      "seed": "#90837b",
+      "anchor_step": "500",
+      "hue": 53.8,
+      "seed_chroma": 0.0198,
+      "is_neutral": true,
+      "ramp": {
+        "50": {
+          "hex": "#f8f5f2",
+          "rgb": [
+            248,
+            245,
+            242
+          ],
+          "rgb_string": "rgb(248 245 242)",
+          "oklch": "oklch(0.9710 0.0050 53.80)",
+          "oklch_values": {
+            "l": 0.971,
+            "c": 0.005,
+            "h": 53.8
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "100": {
+          "hex": "#E8E0DA",
+          "rgb": [
+            232,
+            224,
+            218
+          ],
+          "rgb_string": "rgb(232 224 218)",
+          "oklch": "oklch(0.9113 0.0120 59.55)",
+          "oklch_values": {
+            "l": 0.911,
+            "c": 0.012,
+            "h": 59.55
+          },
+          "gamut_clamped": false,
+          "is_seed": false,
+          "equity": "الجانب الفاتح في غلاف ملف المؤسس"
+        },
+        "200": {
+          "hex": "#dfd7d3",
+          "rgb": [
+            223,
+            215,
+            211
+          ],
+          "rgb_string": "rgb(223 215 211)",
+          "oklch": "oklch(0.8850 0.0107 53.80)",
+          "oklch_values": {
+            "l": 0.885,
+            "c": 0.0107,
+            "h": 53.8
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "300": {
+          "hex": "#ccc3bd",
+          "rgb": [
+            204,
+            195,
+            189
+          ],
+          "rgb_string": "rgb(204 195 189)",
+          "oklch": "oklch(0.8220 0.0136 53.80)",
+          "oklch_values": {
+            "l": 0.822,
+            "c": 0.0136,
+            "h": 53.8
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "400": {
+          "hex": "#b4a8a1",
+          "rgb": [
+            180,
+            168,
+            161
+          ],
+          "rgb_string": "rgb(180 168 161)",
+          "oklch": "oklch(0.7400 0.0167 53.80)",
+          "oklch_values": {
+            "l": 0.74,
+            "c": 0.0167,
+            "h": 53.8
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "500": {
+          "hex": "#90837b",
+          "rgb": [
+            144,
+            131,
+            123
+          ],
+          "rgb_string": "rgb(144 131 123)",
+          "oklch": "oklch(0.6192 0.0198 53.80)",
+          "oklch_values": {
+            "l": 0.6192,
+            "c": 0.0198,
+            "h": 53.8
+          },
+          "gamut_clamped": false,
+          "is_seed": true
+        },
+        "600": {
+          "hex": "#7e726a",
+          "rgb": [
+            126,
+            114,
+            106
+          ],
+          "rgb_string": "rgb(126 114 106)",
+          "oklch": "oklch(0.5600 0.0192 53.80)",
+          "oklch_values": {
+            "l": 0.56,
+            "c": 0.0192,
+            "h": 53.8
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "700": {
+          "hex": "#635852",
+          "rgb": [
+            99,
+            88,
+            82
+          ],
+          "rgb_string": "rgb(99 88 82)",
+          "oklch": "oklch(0.4700 0.0170 53.80)",
+          "oklch_values": {
+            "l": 0.47,
+            "c": 0.017,
+            "h": 53.8
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "800": {
+          "hex": "#4a423c",
+          "rgb": [
+            74,
+            66,
+            60
+          ],
+          "rgb_string": "rgb(74 66 60)",
+          "oklch": "oklch(0.3850 0.0147 53.80)",
+          "oklch_values": {
+            "l": 0.385,
+            "c": 0.0147,
+            "h": 53.8
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "900": {
+          "hex": "#322b27",
+          "rgb": [
+            50,
+            43,
+            39
+          ],
+          "rgb_string": "rgb(50 43 39)",
+          "oklch": "oklch(0.2950 0.0122 53.80)",
+          "oklch_values": {
+            "l": 0.295,
+            "c": 0.0122,
+            "h": 53.8
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "950": {
+          "hex": "#1b1613",
+          "rgb": [
+            27,
+            22,
+            19
+          ],
+          "rgb_string": "rgb(27 22 19)",
+          "oklch": "oklch(0.2050 0.0095 53.80)",
+          "oklch_values": {
+            "l": 0.205,
+            "c": 0.0095,
+            "h": 53.8
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        }
+      }
+    },
+    "warning": {
+      "seed": "#e29e3f",
+      "anchor_step": "400",
+      "hue": 71.74,
+      "seed_chroma": 0.135,
+      "is_neutral": false,
+      "ramp": {
+        "50": {
+          "hex": "#fff2d9",
+          "rgb": [
+            255,
+            242,
+            217
+          ],
+          "rgb_string": "rgb(255 242 217)",
+          "oklch": "oklch(0.9642 0.0360 83.51)",
+          "oklch_values": {
+            "l": 0.9642,
+            "c": 0.036,
+            "h": 83.51
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        },
+        "100": {
+          "hex": "#ffe4bd",
+          "rgb": [
+            255,
+            228,
+            189
+          ],
+          "rgb_string": "rgb(255 228 189)",
+          "oklch": "oklch(0.9310 0.0590 76.85)",
+          "oklch_values": {
+            "l": 0.931,
+            "c": 0.059,
+            "h": 76.85
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        },
+        "200": {
+          "hex": "#fdd09a",
+          "rgb": [
+            253,
+            208,
+            154
+          ],
+          "rgb_string": "rgb(253 208 154)",
+          "oklch": "oklch(0.8850 0.0862 71.74)",
+          "oklch_values": {
+            "l": 0.885,
+            "c": 0.0862,
+            "h": 71.74
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "300": {
+          "hex": "#f1b972",
+          "rgb": [
+            241,
+            185,
+            114
+          ],
+          "rgb_string": "rgb(241 185 114)",
+          "oklch": "oklch(0.8220 0.1096 71.74)",
+          "oklch_values": {
+            "l": 0.822,
+            "c": 0.1096,
+            "h": 71.74
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "400": {
+          "hex": "#e29e3f",
+          "rgb": [
+            226,
+            158,
+            63
+          ],
+          "rgb_string": "rgb(226 158 63)",
+          "oklch": "oklch(0.7490 0.1350 71.74)",
+          "oklch_values": {
+            "l": 0.749,
+            "c": 0.135,
+            "h": 71.74
+          },
+          "gamut_clamped": false,
+          "is_seed": true
+        },
+        "500": {
+          "hex": "#c77a00",
+          "rgb": [
+            199,
+            122,
+            0
+          ],
+          "rgb_string": "rgb(199 122 0)",
+          "oklch": "oklch(0.6469 0.1434 66.58)",
+          "oklch_values": {
+            "l": 0.6469,
+            "c": 0.1434,
+            "h": 66.58
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        },
+        "600": {
+          "hex": "#a66300",
+          "rgb": [
+            166,
+            99,
+            0
+          ],
+          "rgb_string": "rgb(166 99 0)",
+          "oklch": "oklch(0.5619 0.1253 65.81)",
+          "oklch_values": {
+            "l": 0.5619,
+            "c": 0.1253,
+            "h": 65.81
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        },
+        "700": {
+          "hex": "#834c00",
+          "rgb": [
+            131,
+            76,
+            0
+          ],
+          "rgb_string": "rgb(131 76 0)",
+          "oklch": "oklch(0.4718 0.1061 64.73)",
+          "oklch_values": {
+            "l": 0.4718,
+            "c": 0.1061,
+            "h": 64.73
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        },
+        "800": {
+          "hex": "#643800",
+          "rgb": [
+            100,
+            56,
+            0
+          ],
+          "rgb_string": "rgb(100 56 0)",
+          "oklch": "oklch(0.3868 0.0880 63.27)",
+          "oklch_values": {
+            "l": 0.3868,
+            "c": 0.088,
+            "h": 63.27
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        },
+        "900": {
+          "hex": "#452300",
+          "rgb": [
+            69,
+            35,
+            0
+          ],
+          "rgb_string": "rgb(69 35 0)",
+          "oklch": "oklch(0.2967 0.0690 60.86)",
+          "oklch_values": {
+            "l": 0.2967,
+            "c": 0.069,
+            "h": 60.86
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        },
+        "950": {
+          "hex": "#281000",
+          "rgb": [
+            40,
+            16,
+            0
+          ],
+          "rgb_string": "rgb(40 16 0)",
+          "oklch": "oklch(0.2066 0.0502 56.63)",
+          "oklch_values": {
+            "l": 0.2066,
+            "c": 0.0502,
+            "h": 56.63
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        }
+      }
+    },
+    "error": {
+      "seed": "#cb4644",
+      "anchor_step": "600",
+      "hue": 24.85,
+      "seed_chroma": 0.1693,
+      "is_neutral": false,
+      "ramp": {
+        "50": {
+          "hex": "#ffede9",
+          "rgb": [
+            255,
+            237,
+            233
+          ],
+          "rgb_string": "rgb(255 237 233)",
+          "oklch": "oklch(0.9590 0.0204 30.15)",
+          "oklch_values": {
+            "l": 0.959,
+            "c": 0.0204,
+            "h": 30.15
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        },
+        "100": {
+          "hex": "#ffddd8",
+          "rgb": [
+            255,
+            221,
+            216
+          ],
+          "rgb_string": "rgb(255 221 216)",
+          "oklch": "oklch(0.9236 0.0389 27.31)",
+          "oklch_values": {
+            "l": 0.9236,
+            "c": 0.0389,
+            "h": 27.31
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        },
+        "200": {
+          "hex": "#ffc4be",
+          "rgb": [
+            255,
+            196,
+            190
+          ],
+          "rgb_string": "rgb(255 196 190)",
+          "oklch": "oklch(0.8720 0.0683 25.94)",
+          "oklch_values": {
+            "l": 0.872,
+            "c": 0.0683,
+            "h": 25.94
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        },
+        "300": {
+          "hex": "#ffa59e",
+          "rgb": [
+            255,
+            165,
+            158
+          ],
+          "rgb_string": "rgb(255 165 158)",
+          "oklch": "oklch(0.8100 0.1075 25.19)",
+          "oklch_values": {
+            "l": 0.81,
+            "c": 0.1075,
+            "h": 25.19
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        },
+        "400": {
+          "hex": "#fa827b",
+          "rgb": [
+            250,
+            130,
+            123
+          ],
+          "rgb_string": "rgb(250 130 123)",
+          "oklch": "oklch(0.7400 0.1476 24.85)",
+          "oklch_values": {
+            "l": 0.74,
+            "c": 0.1476,
+            "h": 24.85
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "500": {
+          "hex": "#e55955",
+          "rgb": [
+            229,
+            89,
+            85
+          ],
+          "rgb_string": "rgb(229 89 85)",
+          "oklch": "oklch(0.6450 0.1751 24.85)",
+          "oklch_values": {
+            "l": 0.645,
+            "c": 0.1751,
+            "h": 24.85
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "600": {
+          "hex": "#cb4644",
+          "rgb": [
+            203,
+            70,
+            68
+          ],
+          "rgb_string": "rgb(203 70 68)",
+          "oklch": "oklch(0.5795 0.1693 24.85)",
+          "oklch_values": {
+            "l": 0.5795,
+            "c": 0.1693,
+            "h": 24.85
+          },
+          "gamut_clamped": false,
+          "is_seed": true
+        },
+        "700": {
+          "hex": "#9e2c2d",
+          "rgb": [
+            158,
+            44,
+            45
+          ],
+          "rgb_string": "rgb(158 44 45)",
+          "oklch": "oklch(0.4700 0.1498 24.85)",
+          "oklch_values": {
+            "l": 0.47,
+            "c": 0.1498,
+            "h": 24.85
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "800": {
+          "hex": "#7a1b1d",
+          "rgb": [
+            122,
+            27,
+            29
+          ],
+          "rgb_string": "rgb(122 27 29)",
+          "oklch": "oklch(0.3850 0.1303 24.85)",
+          "oklch_values": {
+            "l": 0.385,
+            "c": 0.1303,
+            "h": 24.85
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "900": {
+          "hex": "#57090e",
+          "rgb": [
+            87,
+            9,
+            14
+          ],
+          "rgb_string": "rgb(87 9 14)",
+          "oklch": "oklch(0.2950 0.1081 24.85)",
+          "oklch_values": {
+            "l": 0.295,
+            "c": 0.1081,
+            "h": 24.85
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "950": {
+          "hex": "#340003",
+          "rgb": [
+            52,
+            0,
+            3
+          ],
+          "rgb_string": "rgb(52 0 3)",
+          "oklch": "oklch(0.2055 0.0833 25.10)",
+          "oklch_values": {
+            "l": 0.2055,
+            "c": 0.0833,
+            "h": 25.1
+          },
+          "gamut_clamped": true,
+          "is_seed": false
+        }
+      }
+    },
+    "info": {
+      "seed": "#4c8a9d",
+      "anchor_step": "600",
+      "hue": 219.93,
+      "seed_chroma": 0.0701,
+      "is_neutral": false,
+      "ramp": {
+        "50": {
+          "hex": "#e9f9fe",
+          "rgb": [
+            233,
+            249,
+            254
+          ],
+          "rgb_string": "rgb(233 249 254)",
+          "oklch": "oklch(0.9710 0.0183 219.93)",
+          "oklch_values": {
+            "l": 0.971,
+            "c": 0.0183,
+            "h": 219.93
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "100": {
+          "hex": "#d6eff7",
+          "rgb": [
+            214,
+            239,
+            247
+          ],
+          "rgb_string": "rgb(214 239 247)",
+          "oklch": "oklch(0.9360 0.0283 219.93)",
+          "oklch_values": {
+            "l": 0.936,
+            "c": 0.0283,
+            "h": 219.93
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "200": {
+          "hex": "#bee0eb",
+          "rgb": [
+            190,
+            224,
+            235
+          ],
+          "rgb_string": "rgb(190 224 235)",
+          "oklch": "oklch(0.8850 0.0390 219.93)",
+          "oklch_values": {
+            "l": 0.885,
+            "c": 0.039,
+            "h": 219.93
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "300": {
+          "hex": "#a2cddb",
+          "rgb": [
+            162,
+            205,
+            219
+          ],
+          "rgb_string": "rgb(162 205 219)",
+          "oklch": "oklch(0.8220 0.0496 219.93)",
+          "oklch_values": {
+            "l": 0.822,
+            "c": 0.0496,
+            "h": 219.93
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "400": {
+          "hex": "#7fb4c6",
+          "rgb": [
+            127,
+            180,
+            198
+          ],
+          "rgb_string": "rgb(127 180 198)",
+          "oklch": "oklch(0.7400 0.0611 219.93)",
+          "oklch_values": {
+            "l": 0.74,
+            "c": 0.0611,
+            "h": 219.93
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "500": {
+          "hex": "#5898ac",
+          "rgb": [
+            88,
+            152,
+            172
+          ],
+          "rgb_string": "rgb(88 152 172)",
+          "oklch": "oklch(0.6450 0.0726 219.93)",
+          "oklch_values": {
+            "l": 0.645,
+            "c": 0.0726,
+            "h": 219.93
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "600": {
+          "hex": "#4c8a9d",
+          "rgb": [
+            76,
+            138,
+            157
+          ],
+          "rgb_string": "rgb(76 138 157)",
+          "oklch": "oklch(0.5992 0.0701 219.93)",
+          "oklch_values": {
+            "l": 0.5992,
+            "c": 0.0701,
+            "h": 219.93
+          },
+          "gamut_clamped": false,
+          "is_seed": true
+        },
+        "700": {
+          "hex": "#2d6373",
+          "rgb": [
+            45,
+            99,
+            115
+          ],
+          "rgb_string": "rgb(45 99 115)",
+          "oklch": "oklch(0.4700 0.0621 219.93)",
+          "oklch_values": {
+            "l": 0.47,
+            "c": 0.0621,
+            "h": 219.93
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "800": {
+          "hex": "#1d4a58",
+          "rgb": [
+            29,
+            74,
+            88
+          ],
+          "rgb_string": "rgb(29 74 88)",
+          "oklch": "oklch(0.3850 0.0540 219.93)",
+          "oklch_values": {
+            "l": 0.385,
+            "c": 0.054,
+            "h": 219.93
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "900": {
+          "hex": "#0d323c",
+          "rgb": [
+            13,
+            50,
+            60
+          ],
+          "rgb_string": "rgb(13 50 60)",
+          "oklch": "oklch(0.2950 0.0448 219.93)",
+          "oklch_values": {
+            "l": 0.295,
+            "c": 0.0448,
+            "h": 219.93
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        },
+        "950": {
+          "hex": "#021b22",
+          "rgb": [
+            2,
+            27,
+            34
+          ],
+          "rgb_string": "rgb(2 27 34)",
+          "oklch": "oklch(0.2050 0.0347 219.93)",
+          "oklch_values": {
+            "l": 0.205,
+            "c": 0.0347,
+            "h": 219.93
+          },
+          "gamut_clamped": false,
+          "is_seed": false
+        }
+      }
+    }
+  }
+}
