@@ -148,21 +148,22 @@ section > .wrap > .eyebrow{color:var(--intag-color-text-accent);font-size:17px;f
 .g3{grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
 .g4{grid-template-columns:repeat(auto-fit,minmax(190px,1fr))}
 
-/* The application gallery. auto-fit is right for text cards and wrong here: it
-   merges a 16:9 pair and an A4 pair into one row, and artwork of two different
-   proportions never lines up. Each group gets a fixed column count and a plate
-   of its own proportion, so every row reads as one set. */
-.pair{grid-template-columns:repeat(2,minmax(0,1fr))}
-.trio{grid-template-columns:repeat(3,minmax(0,1fr))}
-@media (max-width:820px){.pair,.trio{grid-template-columns:1fr}}
-.plate figure img{width:100%;height:auto;object-fit:contain;
+/* The application gallery.
+
+   A column grid forces every format to the same WIDTH, which is the wrong
+   constant: at half the measure an A4 portrait becomes 750px tall while a 16:9
+   slide is 300, so one row swallows the page and another looks like a stamp.
+
+   Each figure takes a share of the measure chosen from its own proportion, so
+   the heights inside a row come out equal and a row can never overflow. Rows
+   sit on a common baseline, so the captions line up whatever the artwork does. */
+.strip{display:flex;flex-wrap:wrap;gap:26px;align-items:flex-end;justify-content:center}
+.strip figure{flex:0 1 auto;width:var(--w,47%)}
+.strip figure img{display:block;width:100%;height:auto;border-radius:14px;
+  border:1px solid var(--intag-color-border-subtle);
   background:var(--intag-color-surface-sunken);
-  border:1px solid var(--intag-color-border-subtle);border-radius:18px;padding:18px}
-.plate.ar-card figure img{aspect-ratio:9/5}
-.plate.ar-social figure img{aspect-ratio:3/4}
-.plate.ar-169 figure img{aspect-ratio:16/9}
-.plate.ar-a4 figure img{aspect-ratio:210/297}
-.plate.ar-wide figure img{aspect-ratio:16/10}
+  box-shadow:0 2px 10px rgba(0,0,0,.10),0 14px 34px rgba(0,0,0,.07)}
+@media (max-width:900px){.strip figure{width:100%}}
 .card{background:var(--intag-color-surface-raised);border:1px solid var(--intag-color-border-subtle);
   border-radius:20px;padding:28px}
 .card h4{margin-bottom:8px}
