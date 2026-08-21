@@ -73,6 +73,7 @@ nav ol a.on::after,nav ol a:hover::after{transform:scaleX(1)}
   background:var(--intag-color-surface-sunken);overflow:hidden;margin-bottom:18px}
 .lab-dot{position:absolute;inset-block-start:12px;inset-inline-start:12px;width:40px;height:40px;
   border-radius:11px;background:var(--intag-terracotta-500)}
+.lab-dot.run{transform:translateX(calc((var(--far) - 64px) * var(--dir)))}
 .lab-btns{display:flex;flex-wrap:wrap;gap:10px}
 .lab-btns button{font:inherit;font-size:15px;cursor:pointer;color:var(--intag-color-text-primary);
   background:var(--intag-color-surface-page);border:1px solid var(--intag-color-border-subtle);
@@ -147,6 +148,11 @@ section > .wrap > .eyebrow{color:var(--intag-color-text-accent);font-size:17px;f
 .g2{grid-template-columns:repeat(auto-fit,minmax(320px,1fr))}
 .g3{grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
 .g4{grid-template-columns:repeat(auto-fit,minmax(190px,1fr))}
+/* Exactly two, never three. auto-fit found room for a third 320px column at the
+   1096px measure, which laid the four type cards out 3+1. The stack breakpoint
+   sits under 780px because that is the width Chrome lays print out at. */
+.g2x{grid-template-columns:repeat(2,minmax(0,1fr))}
+@media (max-width:700px){.g2x{grid-template-columns:1fr}}
 
 /* The application gallery.
 
@@ -199,10 +205,23 @@ td.num,th.num{font-family:var(--intag-font-en-text);direction:ltr;text-align:sta
 .scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
 
 .spec{background:var(--intag-color-surface-sunken);border:1px solid var(--intag-color-border-subtle);
-  border-radius:20px;padding:32px;margin-bottom:20px}
-.spec .demo{margin-bottom:14px}
+  border-radius:20px;padding:32px;margin-bottom:20px;container-type:inline-size}
+.grid > .spec{margin-bottom:0}
+/* The specimens are set in cqw against the card, not in fixed px, so a specimen
+   can no longer be wider than the card holding it. The shared min-height puts
+   the four names on one line whatever size each specimen lands at. */
+.spec .demo{margin-bottom:14px;min-height:88px;display:flex;align-items:flex-end;
+  white-space:nowrap}
+.spec .demo.ar-d{font-family:var(--intag-font-ar-display);font-size:clamp(44px,14cqw,64px);line-height:1.25}
+.spec .demo.ar-t{font-family:var(--intag-font-ar-text);font-size:clamp(24px,9cqw,44px);line-height:1.5}
+.spec .demo.en-d{font-family:var(--intag-font-en-display);font-size:clamp(28px,11cqw,60px);line-height:1.2;letter-spacing:.02em}
+.spec .demo.en-t{font-family:var(--intag-font-en-text);font-size:clamp(22px,8.5cqw,40px);line-height:1.35}
+@media (max-width:700px){.spec .demo{min-height:0}}
+.spec{display:flex;flex-direction:column}
+/* Grid rows stretch, so the licence lines ended at different heights inside
+   equal cards. Push each one to the floor of its card and they share a line. */
 .spec .note{font-size:14px;color:var(--intag-color-text-muted);font-family:var(--intag-font-en-text);
-  direction:ltr;text-align:start}
+  direction:ltr;text-align:start;margin-top:auto;margin-bottom:0}
 .logo-tile{background:var(--intag-forest-900);border:1px solid var(--intag-color-border-subtle);
   border-radius:20px;padding:44px 60px;display:grid;place-items:center;min-height:190px}
 .logo-tile.light{background:var(--intag-sand-100);border-color:var(--intag-sand-300)}
