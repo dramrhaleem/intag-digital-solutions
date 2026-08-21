@@ -158,6 +158,10 @@
         "$value": "#A66300",
         "$type": "color"
       },
+      "warning.700": {
+        "$value": "#834C00",
+        "$type": "color"
+      },
       "error.300": {
         "$value": "#FFA59E",
         "$type": "color"
@@ -194,15 +198,15 @@
     "semantic": {
       "light": {
         "surface.page": {
-          "$value": "{color.primitive.sand.50}",
+          "$value": "{color.primitive.sand.100}",
           "$type": "color"
         },
         "surface.raised": {
-          "$value": "{color.primitive.white}",
+          "$value": "{color.primitive.sand.50}",
           "$type": "color"
         },
         "surface.sunken": {
-          "$value": "{color.primitive.sand.100}",
+          "$value": "{color.primitive.sand.200}",
           "$type": "color"
         },
         "surface.inverse": {
@@ -230,7 +234,7 @@
           "$type": "color"
         },
         "text.accent": {
-          "$value": "{color.primitive.terracotta.600}",
+          "$value": "{color.primitive.terracotta.700}",
           "$type": "color"
         },
         "text.onAccent": {
@@ -238,7 +242,7 @@
           "$type": "color"
         },
         "border.subtle": {
-          "$value": "{color.primitive.sand.200}",
+          "$value": "{color.primitive.sand.300}",
           "$type": "color"
         },
         "border.strong": {
@@ -246,7 +250,7 @@
           "$type": "color"
         },
         "border.accent": {
-          "$value": "{color.primitive.terracotta.600}",
+          "$value": "{color.primitive.terracotta.700}",
           "$type": "color"
         },
         "action.primary.bg": {
@@ -266,7 +270,7 @@
           "$type": "color"
         },
         "action.ghost.text": {
-          "$value": "{color.primitive.terracotta.600}",
+          "$value": "{color.primitive.terracotta.700}",
           "$type": "color"
         },
         "status.success": {
@@ -274,7 +278,7 @@
           "$type": "color"
         },
         "status.warning": {
-          "$value": "{color.primitive.warning.600}",
+          "$value": "{color.primitive.warning.700}",
           "$type": "color"
         },
         "status.error": {

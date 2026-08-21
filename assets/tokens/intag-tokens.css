@@ -40,6 +40,7 @@
   --intag-warning-300: #F1B972;
   --intag-warning-500: #C77A00;
   --intag-warning-600: #A66300;
+  --intag-warning-700: #834C00;
   --intag-error-300: #FFA59E;
   --intag-error-600: #CB4644;
   --intag-error-700: #9E2C2D;
@@ -49,27 +50,27 @@
   --intag-white: #FFFFFF;
   --intag-black: #000000;
 
-  --intag-color-surface-page: var(--intag-sand-50);
-  --intag-color-surface-raised: var(--intag-white);
-  --intag-color-surface-sunken: var(--intag-sand-100);
+  --intag-color-surface-page: var(--intag-sand-100);
+  --intag-color-surface-raised: var(--intag-sand-50);
+  --intag-color-surface-sunken: var(--intag-sand-200);
   --intag-color-surface-inverse: var(--intag-forest-900);
   --intag-color-surface-accent: var(--intag-apricot-200);
   --intag-color-text-primary: var(--intag-forest-900);
   --intag-color-text-secondary: var(--intag-forest-750);
   --intag-color-text-muted: var(--intag-sand-700);
   --intag-color-text-inverse: var(--intag-apricot-200);
-  --intag-color-text-accent: var(--intag-terracotta-600);
+  --intag-color-text-accent: var(--intag-terracotta-700);
   --intag-color-text-onAccent: var(--intag-forest-900);
-  --intag-color-border-subtle: var(--intag-sand-200);
+  --intag-color-border-subtle: var(--intag-sand-300);
   --intag-color-border-strong: var(--intag-forest-750);
-  --intag-color-border-accent: var(--intag-terracotta-600);
+  --intag-color-border-accent: var(--intag-terracotta-700);
   --intag-color-action-primary-bg: var(--intag-forest-900);
   --intag-color-action-primary-text: var(--intag-apricot-200);
   --intag-color-action-secondary-bg: var(--intag-apricot-200);
   --intag-color-action-secondary-text: var(--intag-forest-900);
-  --intag-color-action-ghost-text: var(--intag-terracotta-600);
+  --intag-color-action-ghost-text: var(--intag-terracotta-700);
   --intag-color-status-success: var(--intag-palm-700);
-  --intag-color-status-warning: var(--intag-warning-600);
+  --intag-color-status-warning: var(--intag-warning-700);
   --intag-color-status-error: var(--intag-error-700);
   --intag-color-status-info: var(--intag-info-700);
 
